@@ -1,0 +1,424 @@
+character;dialoge;class;pos_value;neg_value
+HAN;I can't see.;neu;0.5369230769230768;0.46307692307692316
+HAN;Where am I?;neu;0.5091201716738196;0.4908798283261804
+HAN;Who are you?;neu;0.4996006769771206;0.5003993230228794
+HAN;Read!;neu;0.46604938271604957;0.5339506172839504
+HAN;What is that? I know that laugh.;neu;0.3776693350337051;0.622330664966295
+HAN;"Hey, Jabba. Look, Jabba, I was going to pay you back, but I strayed a little. It's not my fault.";neu;0.7120787650711644;0.2879212349288356
+HAN;Look...;neu;0.47054009819967263;0.5294599018003274
+HAN;Jabba... I'll pay you triple! You're throwing away a fortune here. Don't be silly!;neu;0.7166681845615022;0.28333181543849784
+HAN;"Chewie? Chewie, is that you?";neu;0.4934707534593676;0.5065292465406324
+HAN;Ah! Chew--Chewie!;neu;0.6818181818181814;0.31818181818181857
+HAN;"Wait. I can't see it, friend. What's going on?";neu;0.4044219156149742;0.5955780843850258
+HAN;"Luke? Luke is crazy. He can't even take care of himself, let alone rescue someone.";neu;0.3375058749539467;0.6624941250460533
+HAN;"Um...Jedi Knight? I - I'm out of it for a while, everyone has delusions of grandeur.";pos;0.9040554363534494;0.09594456364655057
+HAN;"I'm fine, friend. I'm fine.";neu;0.5990383986393669;0.4009616013606331
+HAN;Luke!;neu;0.5322580645161291;0.4677419354838709
+HAN;"Alright. Together again, huh?";neg;0.16543522648709075;0.8345647735129093
+HAN;How are we doing?;neu;0.46372862746843196;0.536271372531568
+HAN;"So bad, huh? Where's Leia?";neu;0.25812294801461383;0.7418770519853861
+HAN;"Well, I hate long waits.";neu;0.6025321588255056;0.3974678411744944
+HAN;It doesn't look too bad.;neu;0.3347406455645012;0.6652593544354988
+HAN;"On second thought, let's pass it on, huh?";neg;0.13226130083566923;0.8677386991643308
+HAN;"I think my eyes are getting better. Instead of a big dark blur, I see a big blur of light.";pos;0.7783205682899691;0.2216794317100309
+HAN;"You're going to die here, you know. Convenient.";neu;0.26140209026119005;0.73859790973881
+HAN;Ah...great!;neu;0.589541547277937;0.41045845272206305
+HAN;" ""Threepio, tell that slimy piece of... worm-ridden filth that he won't get as much pleasure from us. Right?""";neu;0.2550590759507112;0.7449409240492888
+HAN;"Chewie, are you okay? Where is he?";neu;0.47467643288552697;0.525323567114473
+HAN;"I'm fine, friend.";neu;0.5990383986393669;0.4009616013606331
+HAN; Lando !;pos;0.75;0.25
+HAN;Boba Fett?! Boba Fett?! Where?;neu;0.5091201716738196;0.4908798283261804
+HAN;" Lando, take it!";pos;0.7673661360347324;0.23263386396526764
+HAN;I'm trying!;neu;0.45588235294117646;0.5441176470588236
+HAN;"Hey! Hey! Grab me, Chewie! I'm slipping.";neg;0.1502860989565802;0.8497139010434198
+HAN;Grab it! L-- Lando . Grab it!;neu;0.6785714285714278;0.3214285714285722
+HAN;Grab it! Almost... You almost made it!;neu;0.42554910874311624;0.5744508912568838
+HAN;"Gently now. All... all right. Easy, easy now. Hold me, Chewie.";pos;0.835729848313157;0.164270151686843
+HAN;"Chewie! Chewie, give me the gun. Don't move, Lando.";neu;0.6376836704096365;0.36231632959036353
+HAN;It's okay. Trust me. Don't move.;neu;0.38110122921563355;0.6188987707843665
+HAN;"Chewie, pull us up! Let's go! Okay... up, Chewie, up!";neu;0.3510873994091885;0.6489126005908115
+HAN;I don't know. All I can see is a bunch of blown sand!;neg;0.19587479194884785;0.8041252080511522
+HAN;Then I think I'm getting better.;neu;0.3819824935244311;0.6180175064755689
+HAN;"I have to admit, kid, you were really good out there.";neu;0.4429814915132261;0.5570185084867739
+HAN;"No, I've been thinking about it a lot. That carbon freeze was the closest thing to death there is. And it wasn't just sleeping. It was a big waking nothing!";neg;0.06357156300393285;0.9364284369960671
+HAN;Why don't you leave that crate and come with us?;neu;0.7257343353591492;0.2742656646408508
+HAN;"I guess I owe you some thanks too, Lando.";neu;0.58959628340543;0.41040371659457
+HAN;"Hey Luke, thanks. Thanks for coming after me. Now I owe you one.";neu;0.4252544519431105;0.5747455480568895
+HAN;"Well, look at you, a general, huh?";neu;0.286879395223982;0.713120604776018
+HAN;Well don't look at me buddy. I just said you were a good pilot. I didn't know they were looking for someone to lead this crazy attack.;neg;0.14244088390681162;0.8575591160931884
+HAN;"Well, who said no. But I'm not crazy. You're the respectable one, remember?";neu;0.5256928894132028;0.4743071105867972
+HAN;Good luck.;neu;0.4117811787691304;0.5882188212308697
+HAN;You will need it.;neu;0.4887946729001727;0.5112053270998274
+HAN;"Uh, my team is ready. I don't have a command crew for the shuttle.";neg;0.16906095859117465;0.8309390414088254
+HAN;"Well, it's going to be hard, buddy. I didn't want to speak for you.";neu;0.3873367686460789;0.6126632313539211
+HAN;It's one.;neu;0.5061902082160945;0.4938097917839055
+HAN;Luke.;neu;0.5322580645161291;0.4677419354838709
+HAN;Look. I want you to take her. I'm serious. Take her. You need all the help you can get. She's the fastest ship in the fleet.;pos;0.9480913259930538;0.05190867400694621
+HAN;" ""Right. Got promise from her now. Not a scratch.""";neu;0.40726956196075664;0.5927304380392433
+HAN;You too.;neu;0.47956127650999236;0.5204387234900076
+HAN;Did you warm her up?;neu;0.6877835523134388;0.3122164476865612
+HAN;"No. I don't think the Empire had Wookiees in mind when they designed it, Chewie.";neu;0.5324287662413453;0.4675712337586547
+HAN;"Yeah, I just have a funny feeling. Like I won't see her again.";neu;0.3612333282292637;0.6387666717707363
+HAN;"Okay. Chewie, let's see what this piece of junk can do. Ready, guys?";neu;0.2934708136462858;0.7065291863537142
+HAN;"Alright, wait.";neu;0.26190476190476186;0.7380952380952381
+HAN;"If they don't, we're going to have to get out of here real quick, Chewie.";neu;0.3449684737109891;0.655031526289011
+HAN;Shuttle Tydirium requesting deflect shield deactivation.;neg;0.040697674418604744;0.9593023255813953
+HAN;Start of transmission.;neu;0.5439189189189187;0.45608108108108125
+HAN;It will work. It will work.;neu;0.5454895898711423;0.45451041012885773
+HAN;"Now don't be nervous, Luke. There are a lot of command ships. Keep your distance, Chewie, but don't look like you're trying to keep your distance.";pos;0.8574977318945612;0.14250226810543876
+HAN;I don't know. Fly casual.;neu;0.4891113680955288;0.5108886319044712
+HAN;"It's your imagination, kid. Come on. Let's keep some optimism here.";pos;0.8822246803608114;0.11777531963918864
+HAN;"They won't do that, Chewie.";neu;0.4875688365211121;0.5124311634788878
+HAN;Okay! I said it would work. No problem.;neu;0.35594383902208715;0.6440561609779129
+HAN;It will take time. This whole party will be worthless if they see us.;neu;0.30197695911706746;0.6980230408829325
+HAN;Chewie and I will take care of it. You stay here.;neu;0.470254722509802;0.5297452774901981
+HAN;Hey...it's me.;neu;0.35606060606060613;0.6439393939393938
+HAN;"Hey, wait! Ahhh !";neg;0.10150034098658772;0.8984996590134122
+HAN;Luke! Where's Leia?;pos;0.7542127025765293;0.24578729742347072
+HAN;I thought she was with you.;neu;0.4501198866471272;0.5498801133528728
+HAN;Take the squad ahead. We'll meet at the shield generator at 0300.;neu;0.6708859429174878;0.3291140570825122
+HAN;Luke! Luke!;neu;0.5322580645161291;0.4677419354838709
+HAN;I hope she's okay.;neu;0.46625513202187047;0.5337448679781296
+HAN;"What, Chewie? What? Chewie!";neu;0.49250000000000005;0.5075
+HAN;"Hey, I don't understand.";neu;0.4105346744309158;0.5894653255690843
+HAN;"No, it's just a dead animal, Chewie.";neu;0.4289755082660764;0.5710244917339236
+HAN;"Good job. Great, Chewie! Great! Always thinking with my stomach.";neu;0.6063761160391589;0.39362388396084114
+HAN;"Yes, of course.";neu;0.4152073732718893;0.5847926267281107
+HAN; What... ? Hey! Point that thing away.;neu;0.2857161801384879;0.7142838198615121
+HAN;Hey!;neu;0.35606060606060613;0.6439393939393938
+HAN;What are you telling them?;neu;0.5032098113847745;0.4967901886152255
+HAN;"Well, why don't you use your divine influence and get us out of this?";pos;0.9658750538500497;0.03412494614995032
+HAN;Appropriate?!;neu;0.4829545454545454;0.5170454545454546
+HAN;"Why, you--";neu;0.39710410295293674;0.6028958970470633
+HAN;My mistake. He's an old friend of mine.;neu;0.3282561689137623;0.6717438310862377
+HAN;I have a bad feeling about this.;neu;0.36135373239331275;0.6386462676066873
+HAN;What did he say?;neu;0.4593305368400807;0.5406694631599194
+HAN;Somehow I got the feeling that it didn't help us much.;neu;0.4835605924765141;0.5164394075234859
+HAN;What's going on?;neu;0.46177816998510823;0.5382218300148918
+HAN;Exactly what I always wanted.;neu;0.5843398709837322;0.4156601290162678
+HAN;"Well, a short help is better than no help at all, Chewie. Thanks. Okay.";neu;0.6350722677773167;0.36492773222268327
+HAN;Good. What is the distance? you to him. We need some new supplies too. And try to get our weapons back.;neu;0.6868606557069677;0.31313934429303225
+HAN;"And hurry up, yes? I don't have all day.";neu;0.46424085970518725;0.5357591402948128
+HAN;"Hey, what's going on?";neu;0.3217611898804561;0.6782388101195439
+HAN;"Nothing? Come on, tell me. What's going on?";neu;0.41094167637901;0.58905832362099
+HAN;Did you tell Luke? Is that what you could tell?;neu;0.503172810709858;0.496827189290142
+HAN; Ahhh...;neg;0.2499999999999997;0.7500000000000003
+HAN;I'm sorry.;neu;0.3507462686567164;0.6492537313432836
+HAN;"Hey, don't worry. Chewie and I have entered many more heavily guarded places than this.";neu;0.44720034176673606;0.5527996582332639
+HAN;"Back door, huh? Good idea.";neg;0.14311182048028276;0.8568881795197172
+HAN;It's just a few guards. That shouldn't be too much trouble.;neu;0.4789668754685141;0.5210331245314859
+HAN;Then let's do it very quietly.;neu;0.6945118118919811;0.3054881881080189
+HAN;There goes our surprise attack.;neu;0.4711246681321575;0.5288753318678425
+HAN;Not bad for a small hairball. Only one remains. You stay here. We'll take care of that.;neu;0.26511059656155683;0.7348894034384432
+HAN;"All right! Up! Move! Let's go! Quick! Quick, Chewie.";neu;0.449734675129839;0.550265324870161
+HAN;"Charges! Come on, come on!";neu;0.5920162381596751;0.4079837618403249
+HAN;Here is the terminal.;neg;0.07101916696300309;0.9289808330369969
+HAN;Let's go! Let's go!;neu;0.45;0.55
+HAN;"Well, I suppose I could turn that thing on.";neu;0.3512196178422539;0.648780382157746
+HAN;I think I got it. Got it!;neu;0.37971756680144864;0.6202824331985514
+HAN;Let's see.;neu;0.486825790452573;0.513174209547427
+HAN;I love you.;neu;0.5363882558288628;0.46361174417113715
+HAN;Stay back.;neu;0.5407150879820293;0.4592849120179707
+HAN;"Chewie! Get down here! She's hurt! No, wait... I have an idea.";neu;0.3245792450391443;0.6754207549608557
+HAN;Throw me another load.;neu;0.2749993869694221;0.725000613030578
+HAN;Move! Move!;neu;0.4778481012658228;0.5221518987341772
+HAN;Lando...;pos;0.75;0.25
+LUKE;"Greetings, Exalted One. Allow me to introduce myself. I am Luke Skywalker, Jedi Knight and friend of Captain Solo. I know that you are mighty, mighty Jabba, and that your anger at Solo must be equally powerful. I seek an audience with Your Majesty to bargain for Solo's life. With your wisdom, I am sure we can reach an agreement that is mutually beneficial and allows us to avoid any unpleasant confrontations. As a token of my goodwill, I present to you a gift : those two droids.",pos,0.999999959;0.9229072
+LUKE;... Both are hardworking and will serve you well.;neu;0.30315165226300766;0.6968483477369923
+LUKE;I need to talk to Jabba.;pos;0.9309469493648244;0.06905305063517564
+LUKE;You're taking me to Jabba now!;pos;0.9521667703281662;0.04783322967183379
+LUKE;You serve your master well.;neu;0.7029801694989315;0.2970198305010685
+LUKE;And you will be rewarded.;neu;0.7010593567132672;0.29894064328673275
+LUKE;I must be allowed to speak.;neu;0.5200870953472879;0.4799129046527121
+LUKE;You will bring Captain Solo and the Wookiee to me.;neu;0.6279187256125217;0.3720812743874783
+LUKE;"Still, I'm taking Captain Solo and his friends. You can profit from it... or be destroyed! It's your choice. But I warn you not to underestimate my powers.";pos;0.8782515880027042;0.1217484119972958
+LUKE;Han!;neu;0.6249999999999998;0.3750000000000002
+LUKE;Are you okay?;neu;0.4655880516962586;0.5344119483037414
+LUKE;Wouldn't miss it.;neu;0.49696500119858905;0.5030349988014109
+LUKE;Same as always.;neu;0.5950428624673872;0.40495713753261275
+LUKE;"You should have traded, Jabba. That's the last mistake you'll make.";pos;0.8979534370335985;0.10204656296640147
+LUKE;"There's nothing to see. I used to live here, you know.";neu;0.3216425221545216;0.6783574778454784
+LUKE;Just stay close to Chewie and Lando. I took care of everything.;pos;0.8066457109377041;0.1933542890622959
+LUKE;Jabba! This is your last chance. Free us or die.;pos;0.9502505443982951;0.04974945560170485
+LUKE;"Calm down, Chewie.";neu;0.6473384030418252;0.3526615969581748
+LUKE;Get the gun! Aim for the deck!;neu;0.4738498432106689;0.5261501567893311
+LUKE;Aim for the deck!;neu;0.5368594680727777;0.46314053192722227
+LUKE;Let's go!;neu;0.45;0.55
+LUKE;Come on! And don't forget the droids.;pos;0.7671970259609479;0.23280297403905215
+LUKE;I had a lot of help. Don't think about anything.;neu;0.46804931557855844;0.5319506844214416
+LUKE;See you in the fleet.;pos;0.8873207932830965;0.11267920671690346
+LUKE;I have a promise I must keep first... to an old friend.;neu;0.4645155579168297;0.5354844420831704
+LUKE;Meet you in the fleet.;pos;0.8969960451297638;0.10300395487023617
+LUKE;I will.;neu;0.5303171641791045;0.46968283582089554
+LUKE;"That's right, Artoo. We're heading to the Dagobah system. I have a promise to keep... to an old friend.";neu;0.7175081490700066;0.2824918509299934
+LUKE;No... of course not.;neu;0.48522686586109154;0.5147731341389085
+LUKE;"Master Yoda, you cannot die.";pos;0.762308139142328;0.23769186085767202
+LUKE;But I need your help. I came back to complete the training.;neu;0.5868452795977345;0.41315472040226553
+LUKE;So I'm a Jedi?;pos;0.8043478260869567;0.19565217391304335
+LUKE;Master Yoda... Is Darth Vader my father?;pos;0.988156596898867;0.011843403101132965
+LUKE;"Yoda, I need to know.";neu;0.6298126785903263;0.3701873214096737
+LUKE;Yes.;neu;0.43488372093023253;0.5651162790697675
+LUKE;Unfortunate that I know the truth?;neu;0.667985654009383;0.33201434599061697
+LUKE;"Well, I'm sorry.";neu;0.3878611735754593;0.6121388264245406
+LUKE;"I can't do this, Artoo. I can't go on alone.";neu;0.49578281497100696;0.504217185028993
+LUKE;Obi-Wan! Why didn't you tell me?;neu;0.4139716896865661;0.5860283103134338
+LUKE;You told me that Vader betrayed and murdered my father.;pos;0.9429945193529261;0.05700548064707389
+LUKE;A certain point of view!;neu;0.6420193611660016;0.35798063883399844
+LUKE;There are still good things in him.;neu;0.57933864926807;0.42066135073193
+LUKE;"I can't do this, Ben.";neu;0.6389748622329583;0.3610251377670417
+LUKE;I tried to stop him once. I couldn't.;neu;0.4419885287520857;0.5580114712479143
+LUKE;But I had to help my friends.;neu;0.6164658052542735;0.3835341947457265
+LUKE;I found out that Darth Vader was my father.;pos;0.9592129502664282;0.040787049733571834
+LUKE;I can't kill my own father.;neu;0.5781430219146481;0.42185697808535194
+LUKE;Yoda spoke of another.;pos;0.7773607269853801;0.22263927301461994
+LUKE;But I don't have a sister.;neu;0.6024274584193913;0.39757254158060873
+LUKE;Read! Leia is my sister.;pos;0.7925558719422973;0.20744412805770274
+LUKE;"But you can't let her get involved now, Ben. Vader will destroy her.";pos;0.9140817578298425;0.08591824217015753
+LUKE;Ask me again sometime.;pos;0.7624701856268797;0.23752981437312026
+LUKE;"Hi, Han... Chewie.";neu;0.6249999999999998;0.3750000000000002
+LUKE;"Yes, she's coming.";neu;0.44573955487466;0.55426044512534
+LUKE;All set.;neu;0.5375955216932177;0.46240447830678233
+LUKE;Vader is on that ship.;pos;0.8632085658506239;0.1367914341493761
+LUKE;I'm putting the mission in jeopardy. I shouldn't have come.;neg;0.17837910808004884;0.8216208919199511
+LUKE;"Quietly, there might be more of them out there.";neu;0.6785450524815198;0.32145494751848025
+LUKE;Fine. Let's go.;neu;0.5232558139534884;0.4767441860465116
+LUKE;"I see them. Wait, Leia!";neu;0.6532089781205667;0.34679102187943334
+LUKE;Quick! Block their comlink. Main switch!;neu;0.6284447372836612;0.37155526271633876
+LUKE;Come closer!;neu;0.5080259562841528;0.4919740437158472
+LUKE;Stand by that one!;neu;0.5314130084110695;0.46858699158893047
+LUKE;Get him!;neu;0.5208371068590018;0.47916289314099825
+LUKE;Keep it up! I'll take these two!;neu;0.5971025591204551;0.40289744087954493
+LUKE;What? She hasn't come back?;neu;0.5170601052036707;0.48293989479632926
+LUKE;We broke up.;neu;0.4833333333333335;0.5166666666666665
+LUKE;"Hey, we better go find her.";neu;0.3540223793131251;0.6459776206868749
+LUKE;"Come on, Artoo. We're going to need your scanners.";neg;0.1066850606018761;0.8933149393981239
+LUKE;There are two more speeders destroyed back there. And I found this.;neu;0.5902791341424671;0.40972086585753287
+LUKE;"Chewie, wa - wait! No!";neu;0.38;0.62
+LUKE;"Are you taking it easy? Let's just figure out a way out of this thing. Han, can you reach for my lightsaber?";pos;0.8953847620565978;0.10461523794340222
+LUKE;"Han, don't do that. It'll be okay.";neu;0.5995642909084764;0.4004357090915236
+LUKE;"Chewie, give them your crossbow.";neu;0.4633258709092024;0.5366741290907976
+LUKE;Do you understand something they are saying?;neu;0.5103100616063458;0.48968993839365416
+LUKE;" ""Threepio, tell them that if they don't do what you want, you'll get angry and use your magic.""";neu;0.7342326457345206;0.26576735426547937
+LUKE;Just tell them.;neu;0.5409813289673016;0.45901867103269844
+LUKE;"Thanks, Threepio .";neu;0.5990990990990991;0.4009009009009009
+LUKE;"Luke, what's wrong?";neu;0.47208888842946406;0.5279111115705359
+LUKE;Read... do you remember your mother? Your real mother?;neu;0.6134888266328414;0.38651117336715857
+LUKE;What do you remember?;neu;0.4904126143224441;0.5095873856775559
+LUKE;Tell me.;neu;0.5522648083623694;0.44773519163763065
+LUKE;I don't remember my mother. I never met her.;neu;0.6841003982211109;0.3158996017788891
+LUKE;"Vader is here... now, on this moon.";pos;0.840880005547936;0.15911999445206404
+LUKE;"I felt his presence. He came to me. He can feel when I'm close. That's why I have to go. As long as I stay, I'm jeopardizing the group and our mission here. it.";neu;0.44949021619980867;0.5505097838001913
+LUKE;He's my father.;neu;0.5931952662721894;0.40680473372781056
+LUKE;"There's more. It won't be easy for you to hear, but you must. If I don't come back, you're the only hope for the Alliance.";pos;0.7654823407480015;0.23451765925199852
+LUKE;"You're wrong, Leia. You have that power too. In time you'll learn to use it like I do. The Force is strong in my family. My father has... I have... it... and... my sister has it.";pos;0.9819162398047263;0.01808376019527369
+LUKE;Yes. It's you Leia.;neu;0.6597877459955006;0.3402122540044994
+LUKE;Then you know why I have to face him.;neu;0.35491893822094206;0.6450810617790579
+LUKE;"No, not you. You were always strong.";neu;0.7084488103605003;0.29155118963949966
+LUKE;Because... there's something good in him. I felt it. He won't hand me over to the Emperor. I can save him. I can bring him back to the good side. You have to try.;pos;0.8541063038506691;0.1458936961493309
+LUKE;"I know, Dad.";neu;0.47609561752988055;0.5239043824701195
+LUKE;"I have accepted the truth that you were once Anakin Skywalker, my father.";pos;0.9789787747185014;0.021021225281498634
+LUKE;It's the name of your true self. You just forgot. I know there's something good in you. The Emperor hasn't completely taken it from you. That's why you can't destroy me. . That's why that you will not take me to your emperor now.;neu;0.5237263384643477;0.4762736615356523
+LUKE;Come with me.;neu;0.49871762188385976;0.5012823781161402
+LUKE;I will not turn... and you will be forced to kill me.;neu;0.5693592722860069;0.4306407277139931
+LUKE;"Look for your feelings, father. You can't do that. I feel the conflict inside you. Let go of your hate.";pos;0.773823273465212;0.22617672653478804
+LUKE;So my father is really dead.;neu;0.5608228779352552;0.4391771220647448
+LUKE;You are gravely mistaken. You will not convert me like you did my father.;pos;0.8906007208320343;0.10939927916796566
+LUKE;You're wrong. Soon I'll be dead... and you with me.;neu;0.4480231914626905;0.5519768085373096
+LUKE;Your overconfidence is your weakness.;pos;0.845778288340034;0.154221711659966
+LUKE;No!;neu;0.5;0.5
+LUKE;I won't fight you dad.;neu;0.5132348229382447;0.48676517706175526
+LUKE;"Your thoughts betray you, father. I feel the good in you... the conflict.";pos;0.8892182891198385;0.11078171088016153
+LUKE;"You couldn't kill me before, and I don't think you're going to destroy me now.";neu;0.35486945280542204;0.645130547194578
+LUKE;I won't fight you.;neu;0.5132348229382449;0.48676517706175515
+LUKE;Never-rr!;neu;0.5;0.5
+LUKE;"Never! I will never turn to the dark side. You failed, Your Highness. I am a Jedi, like my father before me.";pos;0.8192158298406762;0.1807841701593238
+LUKE;"Dad, please. Help me.";neu;0.3796546141392334;0.6203453858607666
+LUKE;No. You're coming with me. I can't leave you here and save.;neu;0.413059228634515;0.5869407713654851
+LUKE;Dad...I won't let you.;neu;0.4422881528144689;0.5577118471855311
+THREEEPIO;Of course I'm worried. And you should be too. Lando Calrissian and poor Chewbacca never came back from this horrible place.;pos;0.9654271678858062;0.03457283211419382
+THREEEPIO;"Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, you'd probably short-circuit.";pos;0.997201791178911;0.0027982088210890543
+THREEEPIO;"Artoo, are you sure this is the right place? I'd better knock, I suppose.";neu;0.2971218620020349;0.7028781379979652
+THREEEPIO;Looks like no one is there. Let's go back and tell Master Luke.;neu;0.5352194990498136;0.4647805009501864
+THREEEPIO;God give me grace!;neu;0.37438882061925;0.62561117938075
+THREEEPIO;Artoo Detoowha bo See three piowha hey very strange mischka Jabba du Hutt.;pos;0.9966128291747951;0.0033871708252048993
+THREEEPIO;"I don't think they'll let us in, Artoo. We better go.";neu;0.36398436126494255;0.6360156387350575
+THREEEPIO;"Oh, Artoo! Artoo, wait for me!";neu;0.3824533999791731;0.617546600020827
+THREEEPIO;"Just deliver Master Luke's message and get us out of here. Oh my God! Oh! Oh, no.";neu;0.6242457699385663;0.3757542300614337
+THREEEPIO;"Oh my God! Wauaga. We - we bring a message to your master, Jabba the Hutt.";pos;0.998572236471438;0.0014277635285619983
+THREEEPIO;"... and a gift. Gift, what gift?";neu;0.5722177924592777;0.42778220754072227
+THREEEPIO;He says our instructions are to give only to Jabba himself.;pos;0.9652684313396823;0.03473156866031768
+THREEEPIO;I'm sorry. I'm afraid he's so stubborn about this sort of thing.;neu;0.6020922098822081;0.39790779011779187
+THREEEPIO;"Artoo, I have a bad feeling about this.";neu;0.36135373239331275;0.6386462676066873
+THREEEPIO;Good morning.;neu;0.4663261905982468;0.5336738094017532
+THREEEPIO;"The message, Artoo, the message.";neu;0.5600754655704361;0.4399245344295639
+THREEEPIO;What did he say?;neu;0.4593305368400807;0.5406694631599194
+THREEEPIO;"This can't be! Artoo, you're sending the wrong message.";neu;0.3570649740000477;0.6429350259999522
+THREEEPIO;We are doomed.;neu;0.6047903612593797;0.3952096387406203
+THREEEPIO;"Artoo, look! Captain Solo. And he's still frozen in carbonite.";neu;0.5780395859380205;0.4219604140619795
+THREEEPIO;What could have happened to Master Luke. Was it something I did? He never expressed any unhappiness with my work. Oh! Oh! Wait! Ohh!;pos;0.9759022291227437;0.024097770877256286
+THREEEPIO;"I am See-Threepio, human-cy...";neu;0.5;0.5
+THREEEPIO;"Ah. Well, yes.";neu;0.4743964314129571;0.5256035685870428
+THREEEPIO;I am fluent in over six million forms of communication and can readily...;neg;0.2103168089273211;0.7896831910726789
+THREEEPIO;Disintegrated?;pos;0.833333333333333;0.16666666666666696
+THREEEPIO;"Artoo, don't leave me! Ohhh!";neu;0.5725;0.4275
+THREEEPIO;Oh no! Chewbacca!;pos;0.9285714285714292;0.07142857142857084
+THREEEPIO;"Oh, uh, yes, uh, I'm here, Your Excellency. Uh...yes!";neu;0.41489453113017444;0.5851054688698256
+THREEEPIO;Oh. The illustrious Jabba welcomes you and will gladly pay you the reward of twenty-five thousand.;pos;0.9338683928196394;0.0661316071803606
+THREEEPIO;"Uh, oh...but what, what did I say? Uh, mighty Jabba asks why he should pay fifty thousand.";pos;0.9263390786864132;0.07366092131358681
+THREEEPIO;Because he's holding a thermal detonator.;neg;0.14421076436001812;0.8557892356399819
+THREEEPIO;Jabba offers the sum of thirty-five. And I suggest you accept.;pos;0.959960583610498;0.040039416389502036
+THREEEPIO;He agrees!;neu;0.5948275862068967;0.4051724137931033
+THREEEPIO;"Ohhh, I can't stand to watch it.";neu;0.5378111343340298;0.46218886566597017
+THREEEPIO;Finally! Master Luke came to rescue me.;neu;0.6668995339701763;0.3331004660298237
+THREEEPIO;"Master Luke, you are standing...";neu;0.7042687341622678;0.29573126583773224
+THREEEPIO;Oh no! The Grudge!;neu;0.5835763686359474;0.4164236313640526
+THREEEPIO;"Oh, dear. His High Exaltation, the great Jabba the Hutt, has decreed that you must be exterminated immediately.";pos;0.9995988086743495;0.0004011913256505295
+THREEEPIO;"You will therefore be taken to the Sea of ​​Dunes and cast into the pit of Carkoon, the nesting ground of the almighty Sarlacc.";neu;0.4612358628678131;0.538764137132187
+THREEEPIO;In his belly you will find a new definition of pain and suffering as you are slowly digested over a thousand years.;neu;0.3563490136983745;0.6436509863016255
+THREEEPIO;"Oh, I'm sorry... Artoo! What are you doing here?";neu;0.2831891383800467;0.7168108616199533
+THREEEPIO;"Well, I can see you're serving drinks, but this place is dangerous. They'll execute Master Luke, and if we're not careful, so will we!";pos;0.9772150674226651;0.022784932577334938
+THREEEPIO;Hmm. I wish I had your trust.;neu;0.43361845243911995;0.56638154756088
+THREEEPIO;"Victims of the almighty Sarlacc: His Excellency expects you to die honorably. But if any of you wish to beg for mercy, great Jabba the Hutt will now hear your pleas.";pos;0.999008602462589;0.000991397537410954
+THREEEPIO;"Not my eyes! Artoo, help! Quick, Artoo. Oh! Ohhh! You beast!";neu;0.4649885574220832;0.5350114425779168
+THREEEPIO;"Artoo, where are we going? I couldn't jump.";neu;0.37247406525422044;0.6275259347457796
+THREEEPIO;Looks dangerous.;neu;0.37225274725274726;0.6277472527472527
+THREEEPIO;\;neu;0.5;0.5
+THREEEPIO;Here we go again.;neu;0.4613802845224402;0.5386197154775598
+THREEEPIO;"Oh, I told you it was dangerous here.";neu;0.5417866328123436;0.4582133671876564
+THREEEPIO;"Don't worry, Master Luke. We know what to do.";neu;0.662713637460284;0.337286362539716
+THREEEPIO;And you said it was beautiful here. Ugh!;neg;0.16905020775015941;0.8309497922498406
+THREEEPIO;"Oh, Master Luke.";neu;0.6652308752584422;0.33476912474155784
+THREEEPIO;I'm afraid Artoo's sensors find no trace of Princess Leia.;pos;0.8447299498795707;0.15527005012042927
+THREEEPIO;"Artoo, I'm not sure this is a good idea. It's a very long dro -o -op!!";neu;0.4829769740115498;0.5170230259884502
+THREEEPIO;"Oh, my head. Oh, my God!";neu;0.48685798946444264;0.5131420105355573
+THREEEPIO;"Oh yes, Master Luke! Remember that I am fluent in over six million forms of communication.";neu;0.5973318609512374;0.40266813904876264
+THREEEPIO;"Hello, I think... I could be wrong. They're using a very primitive dialect. But I believe they think I'm some kind of god.";pos;0.8196262327217907;0.1803737672782093
+THREEEPIO;"I apologize, General Solo, but that would not be appropriate.";neu;0.5168167906800004;0.4831832093199996
+THREEEPIO;It's against my programming to impersonate a deity.;pos;0.8571161748225625;0.14288382517743747
+THREEEPIO;"I am quite embarrassed, General Solo, but it looks like you will be the main course of a feast in my honor.";neu;0.7499988482488418;0.2500011517511582
+THREEEPIO;Your Royal Highness.;neu;0.4000131446347977;0.5999868553652024
+THREEEPIO;"But Master Luke, what magic?";pos;0.7859139009620739;0.21408609903792608
+THREEEPIO;"You see, Master Luke, they didn't believe me. Just...";neu;0.6824123018558998;0.31758769814410015
+THREEEPIO;"...like I said they wouldn't. What--what--what's going on! Oh! Oh, honey! Oh!";neu;0.544146499906994;0.45585350009300596
+THREEEPIO;"Put me down! E-e-elp! Master Luke! Artoo! Someone, someone, help! Master Luke, Artoo! Artoo, quick! Do something, someone! Oh! Ohhh!";neu;0.6110760749120194;0.38892392508798057
+THREEEPIO;"Oh, oh, oh, oh! Thank God.";neu;0.5023296915167094;0.49767030848329064
+THREEEPIO;I... I never knew I had that in me.;neu;0.4152218328797184;0.5847781671202816
+THREEEPIO;"Yes, Artoo. I was just getting there.";neu;0.38525497170190054;0.6147450282980995
+THREEEPIO;Wonderful! We are now part of the tribe.;neu;0.5647748587691921;0.4352251412308079
+THREEEPIO;He says the scouts will show us the fastest way to the shield generator.;pos;0.9619022322301979;0.038097767769802116
+THREEEPIO;He says there is a secret entrance on the other side of the ridge.;pos;0.9558181972438465;0.044181802756153465
+THREEEPIO;"Oh! Oh, my. Uh, Princess Leia!";neu;0.7405063291139237;0.25949367088607633
+THREEEPIO;I'm afraid our furry companion has gone and done something rather rash.;neg;0.06951909106417418;0.9304809089358258
+THREEEPIO;I've decided that we're going to stay here.;neu;0.3528375101928984;0.6471624898071016
+THREEEPIO;"Oh, my! They will be captured!";neu;0.6784886299495198;0.32151137005048025
+THREEEPIO;" Wa -wait! Wait, come back! Artoo, stay with me.";neu;0.41788640075292616;0.5821135992470738
+THREEEPIO;"Hello! I mean, over there! Were you looking for me?";neu;0.2826562724199933;0.7173437275800068
+THREEEPIO;"Well, they're on their way. Artoo, are you sure it was a good idea?";neu;0.47441273073135554;0.5255872692686445
+THREEEPIO;We surrender.;neu;0.5833333333333333;0.41666666666666674
+THREEEPIO;" Ohhh ! Back off, Artoo.";neu;0.4985149589516891;0.5014850410483109
+THREEEPIO;"Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!";neu;0.5582929242494268;0.4417070757505732
+THREEEPIO;We're coming!;neu;0.5167364016736399;0.4832635983263601
+THREEEPIO;"Oh, Artoo, quick!";neu;0.46899224806201556;0.5310077519379844
+THREEEPIO;"My God! Artoo, why did you have to be so brave?";neu;0.34875264405675094;0.651247355943249
+THREEEPIO;"Oh Princess Leia, are you alright?";neu;0.61691154077711;0.38308845922289003
+THREEEPIO;Oh dear.;neu;0.4318181818181817;0.5681818181818183
+THREEEPIO;They did it!;neu;0.45148395575512007;0.54851604424488
+READ;Someone who loves you.;neu;0.5553536698309465;0.4446463301690535
+READ;I have to get you out of here.;neu;0.39079041601065356;0.6092095839893464
+READ;We have powerful friends. You will regret this...;pos;0.8303326282773263;0.16966737172267365
+READ;Ugh!;neg;0.14705882352941174;0.8529411764705883
+READ;I'm here.;neu;0.45654911838790946;0.5434508816120905
+READ;Let's go. We have to get out of here fast.;neu;0.31796150621361013;0.6820384937863899
+READ;That's all any of us can see.;neu;0.5019743426213438;0.49802565737865623
+READ;He means You're welcome.;neu;0.6032947359557018;0.3967052640442982
+READ;Quickly. The Alliance should already be assembled.;neu;0.6518557775667467;0.34814422243325327
+READ;I wonder who they found to do this.;neu;0.4986031395438491;0.501396860456151
+READ;"Uh, General... count on me.";neu;0.5484163286441698;0.4515836713558302
+READ;What is it?;neu;0.49250000000000005;0.5075
+READ;"Hey, are you awake?";neg;0.23682413415531822;0.7631758658446818
+READ;"Come on, general, let's go.";neu;0.5568597720380637;0.4431402279619363
+READ;Now let's find out if that code is worth the price we paid.;neu;0.5030747708411711;0.49692522915882886
+READ;Shall we try to go for a walk?;neu;0.7465836352535317;0.25341636474646834
+READ;Over there! Two more!;neu;0.498886685856379;0.501113314143621
+READ;Stop it!;neu;0.4849137931034482;0.5150862068965518
+READ;I won't hurt you.;neu;0.6036686838124053;0.39633131618759465
+READ;"Well, it looks like I'm stuck here. Problem is, I don't know where it is.";neg;0.19329474969547844;0.8067052503045216
+READ;"Well, maybe you can help me. Come on, sit down.";neu;0.3094883789429037;0.6905116210570963
+READ;I promise I won't hurt you. Now come here.;neu;0.4168432432775093;0.5831567567224907
+READ;Alright. Want something to eat?;neu;0.40117727920960927;0.5988227207903907
+READ;That's right. Let's go. Hmmm?;neg;0.06293952180028117;0.9370604781997188
+READ;"Look, it's a hat. It won't hurt you. Look. You're a nervous little thing, aren't you?";neu;0.6273443043304604;0.3726556956695396
+READ;What is it?;neu;0.49250000000000005;0.5075
+READ;"Come on, let's get out of here.";neu;0.37225701616052587;0.6277429838394741
+READ;Ah!;neu;0.5;0.5
+READ;" ""But these are my friends. Threepio, tell them they must be released.""";pos;0.7558856851421052;0.2441143148578948
+READ;I don't know.;neu;0.47609561752988055;0.5239043824701195
+READ;Just a little bit. She died when I was very young.;neu;0.6558540229977989;0.34414597700220106
+READ;"Just... images, really. Feelings.";neu;0.7032262164280604;0.2967737835719396
+READ;She was very pretty. Kind but... sad. Why are you asking me all this?;neu;0.3467295600367297;0.6532704399632703
+READ;"Luke, tell me. What's bothering you?";neu;0.5066272644463575;0.49337273555364247
+READ;How do you know?;neu;0.45146324146011463;0.5485367585398854
+READ;Why?;neu;0.40459965928449737;0.5954003407155026
+READ;Your father?;neu;0.6152934372590294;0.3847065627409706
+READ;"Luke, don't talk like that. You have a power that I... I don't understand and could never have.";neu;0.5870586069590151;0.41294139304098487
+READ;I know. Somehow...I always knew.;neu;0.4762831729385362;0.5237168270614638
+READ;"No! Luke, run away. If he can feel your presence, then get out of this place. I wish I could go with you.";neu;0.5177469439192822;0.4822530560807178
+READ;But why should you confront him?;neu;0.3166489655230132;0.6833510344769869
+READ;Nothing. I - just want to be alone for a while.;neu;0.4161149736856563;0.5838850263143437
+READ;I...I can't tell you.;neu;0.5445355488838589;0.4554644511161411
+READ;I...;neu;0.5;0.5
+READ;Hold me.;neu;0.5;0.5
+READ;The main entrance to the control bunker is on the other side of the landing pad. This won't be easy.;pos;0.9678531822578857;0.03214681774211425
+READ;What is he saying?;neu;0.4577340119495464;0.5422659880504537
+READ;"Well, it only takes one to sound the alarm.";neu;0.6326323864380872;0.36736761356191283
+READ;Silent.;neu;0.5377358490566038;0.46226415094339623
+READ;"Oh, no.";neu;0.5;0.5
+READ;Han! Hurry! The fleet will be here any minute now.;pos;0.8139319215431186;0.18606807845688145
+READ;The code has changed. We need Artoo!;neu;0.41783872797421345;0.5821612720257865
+READ;"Artoo, where are you? We need you in the bunker immediately.";pos;0.8517062144493398;0.1482937855506602
+READ;I'll cover you.;neu;0.4971976631360386;0.5028023368639614
+READ;Not bad.;neu;0.34006104107661833;0.6599389589233817
+READ;I know.;neu;0.47609561752988055;0.5239043824701195
+VADER;"You may dispense with the pleasantries, Commander. I'm here to get you back on schedule.";neu;0.34575900941040294;0.6542409905895971
+VADER;Maybe I can find new ways to motivate them.;pos;0.817884319309239;0.182115680690761
+VADER;The Emperor does not share your optimistic assessment of the situation.;pos;0.9625132779254153;0.0374867220745847
+VADER;Then maybe you can tell him when he arrives.;neu;0.4493428820080255;0.5506571179919745
+VADER;"Correct, Commander. And he is very unhappy with your apparent lack of progress.";neu;0.5544937350762944;0.4455062649237056
+VADER;"I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.";neu;0.4900006919048197;0.5099993080951803
+VADER;The Death Star will be completed on time.;neu;0.6677767465183756;0.3322232534816244
+VADER;"Yes, my Master.";neu;0.5733490566037733;0.42665094339622667
+VADER;As you wish.;neu;0.48773552337518405;0.5122644766248159
+VADER;"What is your order, my Master?";neu;0.6873294156994563;0.31267058430054373
+VADER;And the reports of the Rebel fleet massing near Sullust?;pos;0.9489771662795663;0.0510228337204337
+VADER;"Yes, my Master.";neu;0.5733490566037733;0.42665094339622667
+VADER;Where is this ship going?;neu;0.49392055980564814;0.5060794401943518
+VADER;Do they have a code authorization?;neu;0.39328504741566606;0.6067149525843339
+VADER;No. Leave them to me. I'll deal with them myself.;neu;0.6290473392219225;0.37095266077807754
+VADER;The Emperor will see me now!;pos;0.8208041082826245;0.1791958917173755
+VADER;A small rebel force penetrated the shield and landed on Endor.;pos;0.8590559771019465;0.14094402289805352
+VADER;My son is with them.;neu;0.5832890721396198;0.4167109278603802
+VADER;"I felt it, my Master.";neu;0.6952725582630633;0.30472744173693667
+VADER;"They are clear, my Master.";neu;0.7029290726084498;0.29707092739155017
+VADER;Will he come to me?;neu;0.526989194039896;0.47301080596010403
+VADER;As you wish.;neu;0.48773552337518405;0.5122644766248159
+VADER;"Good work, Commander. Leave us. Conduct your search and bring your companions to me.";neu;0.6072528120878806;0.3927471879121194
+VADER;The Emperor was waiting for you.;neu;0.7270093634291831;0.2729906365708169
+VADER;So you've accepted the truth.;pos;0.7610619542614411;0.23893804573855892
+VADER;This name has no more meaning to me.;neu;0.5389648664547313;0.4610351335452687
+VADER;I see you've built a new lightsaber.;pos;0.9002981752473439;0.0997018247526561
+VADER;"Your abilities are complete. Indeed, you are powerful, as the Emperor predicted.";pos;0.8991187639273519;0.1008812360726481
+VADER;Obi-Wan has already thought like you.;neu;0.4226998599017494;0.5773001400982506
+VADER;You do not know the power of the dark side. I must obey my master.;neu;0.6417627464985431;0.35823725350145685
+VADER;If that's your fate.;neu;0.6421101776272741;0.35788982237272593
+VADER;"It's too late for me, son. The Emperor will show you the true nature of the Force. He is your master now.";pos;0.9747723302148702;0.025227669785129803
+VADER;Your lightsaber.;pos;0.8457782883400351;0.1542217116599649
+VADER;"It is useless to resist, my son.";neu;0.6194741277867891;0.3805258722132109
+VADER;Obi-Wan taught you well.;neu;0.6717311896262548;0.3282688103737452
+VADER;You are reckless to lower your defenses.;neu;0.544923417955558;0.455076582044442
+VADER;There is no conflict.;neu;0.5083639199853184;0.4916360800146816
+VADER;"You underestimate the power of the dark side. If you don't fight, then you will meet your destiny.";pos;0.8631923742340547;0.1368076257659453
+VADER;"You can't hide forever, Luke.";neu;0.3833520829072058;0.6166479170927942
+VADER;"Surrender to the dark side. It's the only way to save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for...";pos;0.9668432816957265;0.03315671830427347
+VADER;"Sister! So... you have a twin. Your feelings have now betrayed you too. Obi-Wan was wise to hide you from me. Now his failure is complete. If you don't transform to the dark side, so maybe she will.";neg;0.18613292445038446;0.8138670755496156
+VADER;"Luke, help me take off this mask.";neu;0.5033716999957605;0.4966283000042395
+VADER;Nothing can stop this now. Just for once...let me look at you with my own eyes.;neu;0.41914003476243444;0.580859965237565

@@ -1,0 +1,662 @@
+character;dialogue;class;pos_value;neg_value
+LUKE;Hurry up! Come with me! What are you waiting for?! Speed ​​up!;neu;0.34521100708213776;0.6547889929178623
+LUKE;Shape you!... Biggs?;neu;0.42600515319627064;0.5739948468037294
+LUKE;I didn't know you were back! When did you come in?;neu;0.42320013794166034;0.5767998620583397
+LUKE;"The Academy hasn't changed you much...but you came back so soon? Hey, what happened, didn't you get your commission?";neu;0.6829233148024391;0.31707668519756094
+LUKE;Almost forgot. There's a battle going on! Right here in our system. Come and look!;neg;0.2133885356082045;0.7866114643917955
+LUKE;There they are!;neu;0.4686773231144631;0.5313226768855369
+LUKE;But there were many shots before...;neu;0.5325192292277754;0.4674807707722246
+LUKE;"Hey, take it easy...";neu;0.4511850164010214;0.5488149835989786
+LUKE;"...so I cut my power, turned off the afterburners, and got on Deak's trail. I was so close I thought I was going to fry my instruments. Skyhopper too bad. Uncle Owen was very upset. grounded for the rest of the season. You should have been there... it was fantastic.";pos;0.9395980044238158;0.0604019955761842
+LUKE;"Look who's talking. Now that you've been around these giant ships, you're starting to look like my uncle. You've gone soft in the city...";neu;0.6201833044267363;0.3798166955732637
+LUKE;"Well, things haven't been the same since you left, Biggs. It's been so... quiet.";neu;0.6181028658787392;0.3818971341212608
+LUKE;What are you talking about?;neu;0.46055642532266594;0.5394435746773341
+LUKE;Join the Rebellion?! You're kidding! How?;neg;0.22233334296250626;0.7776666570374937
+LUKE;Sorry. I'm quiet. Listen to how quiet I am. You can barely hear me...;neu;0.5019608456390858;0.49803915436091417
+LUKE;always trying to find them.;neu;0.5722704217550577;0.4277295782449423
+LUKE;And I'm stuck here...;neu;0.3578585215636005;0.6421414784363995
+LUKE;Not likely! I had to unsubscribe. There's been a lot of unrest among the Sand People since you left... they even invaded the outskirts of Anchorhead.;pos;0.9519395319589711;0.048060468041028925
+LUKE;"I know, but he's got enough vaporizers to make the place worth it. He needs me for just one more season. I can't leave him now.";neu;0.6328743193076369;0.36712568069236307
+LUKE;It couldn't happen here. You said so yourself. The Empire won't bother with that stone.;neu;0.27974847562335975;0.7202515243766403
+LUKE;I'd like to go... Are you going to be here long?;neu;0.40333120313105175;0.5966687968689482
+LUKE;Then I guess I won't see you.;neu;0.335569331566204;0.664430668433796
+LUKE;"Well, I'll be at the Academy next season... after that who knows. I won't be drafted into the Imperial Starfleet for sure... Take care, you'll always be the best friend I have. ";pos;0.9657560655397815;0.03424393446021845
+LUKE;"Looks like we don't have much of a choice, but I'll remind you.";neu;0.34434912568474546;0.6556508743152545
+LUKE;But I was going into Toshi Station to get some power converters...;neu;0.5845752911641351;0.4154247088358649
+LUKE;"Alright, let's go! And red, let's go. Well, let's go, Red, let's go.";neu;0.36690774875744775;0.6330922512425523
+LUKE;Uncle Owen...;neu;0.7486072423398331;0.2513927576601669
+LUKE;This R2 unit has a bad motivator. Look!;neg;0.22286206165749842;0.7771379383425016
+LUKE;Uncle Owen...;neu;0.7486072423398331;0.2513927576601669
+LUKE;And that one?;neu;0.5074628854217225;0.49253711457827754
+LUKE;"Yes, take that off.";neu;0.4371675255054175;0.5628324744945825
+LUKE;"Okay, let's go.";neu;0.4223977695167285;0.5776022304832715
+LUKE;"It's not fair. Oh, Biggs is right. I'm never leaving here!";neu;0.35623437683908976;0.6437656231609102
+LUKE;"Well, unless you can change the weather, speed up the harvest, or teleport me off this rock!";neu;0.3165949649232783;0.6834050350767217
+LUKE;"Well, if there's a bright center in the universe, you're on the farthest planet.";neu;0.5837522094768876;0.41624779052311245
+LUKE;"Uh, you can call me Luke.";neu;0.5358460416988927;0.4641539583011073
+LUKE;Just Luke.;neu;0.5161019424565502;0.48389805754344983
+LUKE;Hello.;neu;0.38888888888888884;0.6111111111111112
+LUKE;You've got a lot of carbon scores here. Looks like you guys saw a lot of action.;neg;0.03754380349780456;0.9624561965021954
+LUKE;Do you know about the Rebellion against the Empire?;pos;0.8300487104892366;0.16995128951076344
+LUKE;Have you been in many battles?;neu;0.7056819001193337;0.29431809988066626
+LUKE;"Well, my little friend, you have something very good here. Were you on a star cruiser or...";neu;0.5319110655784413;0.46808893442155874
+LUKE;What is this?;neu;0.48828429718960176;0.5117157028103982
+LUKE;Who is she? She's beautiful.;neu;0.6230223636795389;0.3769776363204611
+LUKE;Is there anything else on this recording?;neu;0.5723468806204589;0.4276531193795411
+LUKE;Obi-Wan Kenobi? Does he mean old Ben Kenobi?;pos;0.9063114259347393;0.09368857406526065
+LUKE;"Well, I don't know anyone named Obi-Wan, but old Ben lives beyond the dune sea. He's kind of a weird old hermit.";neu;0.6510060345782936;0.34899396542170635
+LUKE;I wonder who she is. Looks like she's in trouble. I better reproduce the whole thing.;neg;0.21305606471121155;0.7869439352887885
+LUKE;"Hm? Oh yeah, well I think you're too small to run away from me if I take this off! Okay.";neu;0.36366758647887837;0.6363324135211217
+LUKE;There it is.;neu;0.4809491978609627;0.5190508021390373
+LUKE;"Well, wait a minute. Where did she go? Bring her back! Play the entire message.";neu;0.3734037513989734;0.6265962486010266
+LUKE;"Alright, I'll be there, Aunt Beru.";neu;0.38799933629236305;0.612000663707637
+LUKE;"Well, see what you can do with him. I'll be right back.";neu;0.657040648829973;0.34295935117002696
+LUKE;"You know, I think that R2 unit we bought might have been stolen.";neu;0.5061982805836337;0.4938017194163663
+LUKE;"Well, I found a recording while I was cleaning it. It says it belongs to someone named Obi-Wan Kenobi.";pos;0.9530560084431532;0.04694399155684681
+LUKE;"I thought he might be referring to Ben. Do you know what he's talking about? Well, I wonder if he's related to Ben.";neu;0.5726847954741201;0.4273152045258799
+LUKE;But what if this Obi-Wan comes looking for you?;neu;0.48669328773319714;0.5133067122668029
+LUKE;Did he know my father?;neu;0.535353337011535;0.464646662988465
+LUKE;"Yes sir. I think these new droids will work fine. Actually, I, uh, was also thinking about our agreement on my staying in another season. And if these new droids work out, I want to pass on my application. to the Academy this year.";pos;0.9932307080748106;0.00676929192518938
+LUKE;"Of course, there are more than enough droids.";neu;0.7088731485187669;0.2911268514812331
+LUKE;But it's a whole year.;neu;0.4960078243527413;0.5039921756472587
+LUKE;"Yeah, that's what you said last year when Biggs and Tank left.";neg;0.15044100351690498;0.849558996483095
+LUKE;Looks like I'm not going anywhere. I have to finish cleaning these droids.;neu;0.47652954136364806;0.5234704586363519
+LUKE;What are you doing hiding there?;neu;0.3963287725374035;0.6036712274625965
+LUKE;Oh no!;neu;0.5;0.5
+LUKE;How could I be so stupid? He's nowhere to be seen. Damn!;neg;0.09421864850739693;0.9057813514926031
+LUKE;It's too dangerous with all the Sand People around. We'll have to wait until morning.;neu;0.35188396834048286;0.6481160316595171
+LUKE;"Alright, I'll be there in a few minutes. Dude, I'll get it.";neu;0.27308618918828836;0.7269138108117117
+LUKE;You know that little droid is going to cause me a lot of trouble.;pos;0.7868143087222725;0.21318569127772746
+LUKE;What do you mean.;neu;0.4275400005908401;0.5724599994091599
+LUKE;"Old Ben Kenobi lives this way somewhere, but I don't see how that R2 unit could have gotten this far. We must have lost him. Uncle Owen won't take it very well. .";pos;0.978400119528358;0.021599880471641963
+LUKE;Of course. He needs you. He'd probably just disable you for a day or two...;neu;0.255771197716894;0.7442288022831061
+LUKE;"Wait, there's something dead ahead in the scanner. Looks like our droid... has stepped on the accelerator.";neg;0.11237352235111778;0.8876264776488823
+LUKE;"Hey, wow, where do you think you're going?";neg;0.18370510709615423;0.8162948929038458
+LUKE;"Well, come on. It's getting late. I just hope we can get back before Uncle Owen really blows up.";neu;0.6149352050991779;0.3850647949008221
+LUKE;"No, he won't try anything.";neu;0.4939813421606982;0.5060186578393018
+LUKE;What's wrong with him now?;neu;0.48268993834436796;0.5173100616556321
+LUKE;"Sand Person! Or worse! Come on, let's have a look. Let's go.";neg;0.2368269679709292;0.7631730320290708
+LUKE;"There are two Banthas down there, but I don't see any... wait a second, they're Sandfolk. I can see one of them now.";neu;0.3717387446503892;0.6282612553496107
+LUKE;What happened?;neu;0.5059252047804484;0.49407479521955155
+LUKE;"Ben? Ben Kenobi! Boy, am I glad to see you!";pos;0.935077615465214;0.06492238453478605
+LUKE;"Ah, this little droid! I think he's looking for his former master... I've never seen such devotion in a droid before... there seems to be no stopping him. He claims to be the property of one. Obi-Wan Kenobi. Is he a relative of yours? Do you know who he's talking about?";pos;0.9627797789583189;0.0372202210416811
+LUKE;I think my uncle knew him. He said he was dead.;neu;0.5682805727694948;0.43171942723050516
+LUKE;You know him!;neu;0.5054784140331426;0.49452158596685736
+LUKE;So the droid belongs to you.;pos;0.8100009040063371;0.18999909599366294
+LUKE;... Threepio!;neu;0.5;0.5
+LUKE;Can you stand? We have to get out of here before the Sand People return.;neu;0.4195151116578537;0.5804848883421463
+LUKE;"No, you're not. What kind of conversation is this?";neu;0.6513995810573874;0.3486004189426126
+LUKE;"No, my father didn't fight in the wars. He was a navigator on a spice freighter.";neu;0.5369905292267302;0.4630094707732698
+LUKE;Did you fight in the Clone Wars?;neu;0.5375517334966012;0.46244826650339876
+LUKE;I wish I had met him.;neu;0.5706581629516418;0.42934183704835815
+LUKE;"Sure, go ahead.";neu;0.5071942446043165;0.4928057553956835
+LUKE;What is it?;neu;0.49250000000000005;0.5075
+LUKE;How did my father die?;neu;0.5164789780031859;0.4835210219968141
+LUKE;The Force?;neu;0.6053113984400191;0.39468860155998087
+LUKE;I saw part of the message that he was...;neu;0.5206704069468677;0.4793295930531323
+LUKE;"Alderaan? I'm not going to Alderaan. I have to go home. It's late, I'm ready for it.";neu;0.7412074158880653;0.25879258411193473
+LUKE;I can't get involved! I have work to do! It's not that I like the Empire. I hate it! But there's nothing I can do about it. this now. It's a long way from here.;neu;0.5524822665350985;0.44751773346490153
+LUKE;"Oh, God, my uncle. How am I going to explain this?";neu;0.5359948284351168;0.4640051715648832
+LUKE;"Look, I can take you to Anchorhead. You can take a shuttle there to Mos Eisley or wherever you go.";neu;0.5346202374790995;0.4653797625209005
+LUKE;"Looks like the Sand People did it, all right. Look, here are gaffes, bantha banners. It's just... I've never heard of them hitting something this big before.";neu;0.6767729197828559;0.3232270802171441
+LUKE;These are the same Jawas that sold us Artoo and Threepio.;pos;0.8812849093574412;0.11871509064255881
+LUKE;Why do imperial troops want to kill Jawas?;pos;0.8176957423932162;0.18230425760678381
+LUKE;"If they tracked the robots here, they might have found out who they sold them to. And that would have taken them back home!";pos;0.9727556561960489;0.027244343803951132
+LUKE;Uncle Owen! Aunt Beru! Uncle Owen!;pos;0.7787250640811311;0.22127493591886893
+LUKE;I want to go with you to Alderaan. There is nothing here for me now. I want to learn the ways of the Force and become a Jedi like my father.;pos;0.9702527263244127;0.02974727367558727
+LUKE;About three or four seasons.;pos;0.8294765394672358;0.17052346053276424
+LUKE;"Go on, go on. I can't understand how we got past those soldiers. I thought we were dead.";neu;0.5326856188992801;0.4673143811007199
+LUKE;Do you really think we're going to find a pilot here who will take us to Alderaan?;neu;0.6857284707192709;0.3142715292807291
+LUKE;I'm ready for anything.;neu;0.514933603135902;0.485066396864098
+LUKE;What?;neu;0.49250000000000005;0.5075
+LUKE;"Listen, why don't you wait by the speeder. We don't want any trouble.";neg;0.12799624328740392;0.8720037567125961
+LUKE;I'm sorry.;neu;0.3507462686567164;0.6492537313432836
+LUKE;I'll take care of what.;neu;0.4641714951104812;0.5358285048895188
+LUKE;Ten thousand? We could almost buy our own ship for that!;neu;0.6181857288210356;0.3818142711789644
+LUKE;You bet I could. I'm not that bad of a pilot! We don't have to sit here and listen...;neu;0.3378132538045421;0.6621867461954579
+LUKE;It's okay. I'm never going back to this planet again.;neu;0.3945354931450838;0.6054645068549163
+LUKE;" ""He says it's the best he can do. Ever since the XP-38 came out, they""";neu;0.5722047625016247;0.42779523749837534
+LUKE;What rubbish.;neu;0.409393183707398;0.5906068162926019
+LUKE;Why don't you get over them? I thought you said this thing was fast.;neu;0.2668745886205301;0.7331254113794698
+LUKE;Are you kidding? At the rate they're gaining...;neu;0.41701356959001196;0.5829864304099881
+LUKE;What's that blinking?;neu;0.6191436477492709;0.3808563522507291
+LUKE;Are you okay? What's wrong?;neu;0.4064071619897133;0.5935928380102867
+LUKE;You mean you control your actions?;neu;0.5548400502993035;0.4451599497006965
+LUKE;"You don't believe in the Force, do you?";neu;0.6496109713179188;0.3503890286820812
+LUKE;"With the explosion shield down, I can't even see. How am I going to fight?";neu;0.6763710509738008;0.3236289490261992
+LUKE;"You know, I felt something. I could almost see the remote.";neu;0.6073732795610872;0.3926267204389128
+LUKE;What's going on?;neu;0.46177816998510823;0.5382218300148918
+LUKE;What do you mean? Where is it?;neu;0.43649229660251115;0.5635077033974889
+LUKE;What? How?;neu;0.47555401245536993;0.5244459875446301
+LUKE;Maybe they know what happened.;neu;0.3192575515312903;0.6807424484687097
+LUKE;He followed us!;neu;0.4338235294117646;0.5661764705882354
+LUKE;"Surely he's leaving in a big hurry. If they identify us, we're in trouble.";pos;0.8111945307316234;0.1888054692683766
+LUKE;"So he must have gotten lost, been part of a convoy or something...";neu;0.6065284634419476;0.39347153655805245
+LUKE;Look at him. He's going to that little moon.;neu;0.4984897642146661;0.5015102357853338
+LUKE;I have a bad feeling about this.;neu;0.36135373239331275;0.6386462676066873
+LUKE;Why are we still moving towards this?;neu;0.691201575292682;0.308798424707318
+LUKE;But there has to be something you can do!;neu;0.4826992651124918;0.5173007348875083
+LUKE;"Boy, how lucky you are to have these compartments.";pos;0.7646222094824384;0.23537779051756158
+LUKE;"You know, between his howl and you blasting everything in sight, it's any wonder the entire station doesn't know we're here.";neg;0.20932787906481967;0.7906721209351804
+LUKE;I want to go with you.;neu;0.48534860077766967;0.5146513992223303
+LUKE;But he can...;neu;0.4895110649718945;0.5104889350281054
+LUKE;Ben is a great man.;neu;0.7459873246605863;0.25401267533941374
+LUKE;I didn't hear you give any ideas...;neu;0.28639074638524986;0.7136092536147501
+LUKE;Who do you think...;neu;0.47023766152253543;0.5297623384774646
+LUKE;What is it?;neu;0.49250000000000005;0.5075
+LUKE;"Well, who... who did he find?";neu;0.5410167172606829;0.4589832827393171
+LUKE;The princess? Is she here?;neu;0.47425521688126915;0.5257447831187309
+LUKE;Where... where is she?;neu;0.5033917138886994;0.4966082861113006
+LUKE;Oh no! We have to do something.;neu;0.48154041094904176;0.5184595890509582
+LUKE;The droid belongs to her. She's the one in the message. We have to help her.;pos;0.8631632757364754;0.13683672426352456
+LUKE;"But he didn't know she was here. Look, are you going to find a way back to the detention block?";neu;0.48732577512675856;0.5126742248732414
+LUKE;"They're going to execute you. Look, a few minutes ago you said you didn't just want to wait here to be captured. Now all you want to do is stay.";neu;0.6437604509367342;0.3562395490632658
+LUKE;But they'll kill her!;neu;0.4178871135558368;0.5821128864441631
+LUKE;She's rich.;neu;0.6092074452515897;0.39079255474841035
+LUKE;"Yes. Rich, powerful! Listen, if you were to rescue her, the reward would be...";pos;0.7603158708637312;0.2396841291362688
+LUKE;"Well, more wealth than you can imagine.";neu;0.7085136354890109;0.2914863645109891
+LUKE;You'll make it!;neu;0.48483420027090823;0.5151657997290917
+LUKE;You will...;neu;0.5225365870344787;0.4774634129655213
+LUKE;Alright.;neu;0.36666666666666664;0.6333333333333333
+LUKE;"Uh... Threepio, give me those binders, will you?";neu;0.47841498873442234;0.5215850112655777
+LUKE;"Okay. Now, I'll put this on you.";neu;0.45959125668231526;0.5404087433176847
+LUKE;"Ok. Han, you put this on.";neu;0.6097928703905822;0.39020712960941784
+LUKE;Lock the door!;neu;0.510249897501025;0.489750102498975
+LUKE;I can't see anything in this helmet.;neu;0.25130223907267424;0.7486977609273258
+LUKE;Why didn't you say that before?;neu;0.3823840291573859;0.6176159708426141
+LUKE;Block One-One-Three-Eight Prisoner Transfer.;pos;0.8829032258064516;0.11709677419354836
+LUKE;He will tear us apart.;neu;0.5887474141418767;0.4112525858581233
+LUKE;What? Oh... the uniform. I'm Luke Skywalker. I'm here to rescue you.;pos;0.7811789941290046;0.2188210058709954
+LUKE;I'm here to rescue you. I have your R2 unit. I'm here with Ben Kenobi.;pos;0.8095983355180069;0.19040166448199314
+LUKE;Let's go!;neu;0.45;0.55
+LUKE;See-Three! See-Three!;neu;0.5;0.5
+LUKE;We've been cut! Are there other ways to get out of the cell?...What was that? I didn't copy it!;neu;0.49972724607133795;0.500272753928662
+LUKE;There is no other way out.;neu;0.5087507317576896;0.4912492682423104
+LUKE;"Well, I don't...";neu;0.5397779833487512;0.46022201665124884
+LUKE;No! Wait!;neu;0.38;0.62
+LUKE;Will you forget? I already tried. It's magnetically sealed!;neu;0.26464092300632025;0.7353590769936797
+LUKE;There's something alive here!;neu;0.4951443080996396;0.5048556919003604
+LUKE;Something goes through my leg! Look! Did you see that?;neu;0.43356703037728156;0.5664329696227184
+LUKE;Help!;neu;0.5403225806451613;0.45967741935483875
+LUKE;"Damn it, please! My gun is jammed.";neg;0.04793543827768091;0.9520645617223191
+LUKE;Anywhere! Oh!!;neg;0.2403846153846154;0.7596153846153846
+LUKE;"I don't know, he just let me go and disappeared...";neu;0.36067124253108457;0.6393287574689155
+LUKE;The walls are moving!;neu;0.6530147820880126;0.34698521791198744
+LUKE;Wait a minute!;neg;0.21075427847031464;0.7892457215296853
+LUKE;Threepio! Come on Threepio! Threepio! Where could he be?;neu;0.47321411522083673;0.5267858847791633
+LUKE;"Threepio! Come in, Threepio! Threepio!";neu;0.496661101836394;0.503338898163606
+LUKE;"Where could he be? Threepio! Threepio, can you come in?";neu;0.4552778833393331;0.5447221166606668
+LUKE;Trespios!;neu;0.5;0.5
+LUKE;"Close all garbage disposals in the detention level, yes? Do you copy?";neg;0.16218213553134891;0.8378178644686511
+LUKE;Close all garbage disposals on the detention level.;neg;0.17840871114599702;0.821591288854003
+LUKE;Close all garbage disposals on the detention level.;neg;0.17840871114599702;0.821591288854003
+LUKE;"Threepio, we're fine!";neu;0.5729166666666666;0.42708333333333337
+LUKE;We're fine. You did very well.;neu;0.6186110507180451;0.3813889492819549
+LUKE;"Hey... hey, open the pressure maintenance hatch on unit number... where are we?";neu;0.481474946793247;0.518525053206753
+LUKE;"Well, let's move!";neu;0.46757371579991974;0.5324262842000802
+LUKE;"See-Threepio, do you copy?";neu;0.5366934388115584;0.4633065611884416
+LUKE;We're right above you. Wait.;neu;0.5226017910282166;0.4773982089717834
+LUKE;Where are you going? Come back!;neu;0.4897756049214531;0.5102243950785469
+LUKE;What good will it do us if he kills himself? Let's go!;neu;0.4218311055353923;0.5781688944646077
+LUKE;I think we took the wrong path.;neu;0.5705427782517143;0.4294572217482857
+LUKE;This should hold for a while.;neu;0.47131189942747453;0.5286881005725255
+LUKE;"Oh, I think I just blew it.";neu;0.49158526520995677;0.5084147347900432
+LUKE;"Here, hold this.";neu;0.45236684663263727;0.5476331533673627
+LUKE;Is the ship okay?;neu;0.4919962012113424;0.5080037987886576
+LUKE;Look!;neu;0.47054009819967263;0.5294599018003274
+LUKE;No!;neu;0.5;0.5
+LUKE;I can't believe he's gone.;neu;0.5405949256342958;0.4594050743657042
+LUKE;They're coming too fast!;neu;0.45310064039288345;0.5468993596071166
+LUKE;Got him! Got him!;neu;0.44276429483807933;0.5572357051619207
+LUKE;That's it! We did it!;neu;0.46636127352303886;0.5336387264769611
+LUKE;I care!;neu;0.4480769230769231;0.551923076923077
+LUKE;"So... what do you think of her, Han?";neu;0.5983339749652431;0.4016660250347569
+LUKE;Well...;neu;0.5397779833487512;0.46022201665124884
+LUKE;No!;neu;0.5;0.5
+LUKE;It's not impossible. I used to hunt mice in my T-16 at home. They're not much bigger than two meters.;neu;0.6496697230908365;0.3503302769091635
+LUKE;So...you got your reward and you're leaving?;neu;0.5126971448592536;0.48730285514074645
+LUKE;"Come on! Why don't you take a look around? You know what's about to happen, what they're up against. They could use a good pilot like you. You're turning your back on them.";neu;0.381985565157745;0.6180144348422549
+LUKE;"Alright. Well, take care, Han... I think that's what you're best at, isn't it?";neu;0.5334970444044173;0.46650295559558275
+LUKE;"Oh, it's Han! I don't know, I really thought he'd change his mind.";pos;0.7599951810172563;0.24000481898274373
+LUKE;I just wish Ben were here.;neu;0.55904840903083;0.44095159096917
+LUKE;"Biggs! Of course, I'll be there with you! Listen, I have some stories to tell...";neu;0.516407984400073;0.48359201559992704
+LUKE;Thanks sir. I'll try.;pos;0.7717948717948717;0.22820512820512828
+LUKE;"I told you I'd make it one day, Biggs.";neu;0.5098664971482849;0.4901335028517151
+LUKE;"Not in your life! That little droid and I have been through a lot together. Are you okay, Artoo?";pos;0.8915444622766345;0.10845553772336547
+LUKE;Five Red waiting.;neu;0.42249735319860454;0.5775026468013955
+LUKE;This is Red Five! I'm going in!;neu;0.43785515339822356;0.5621448466017764
+LUKE;"I was a little overcooked, but I'm fine.";neg;0.2052765587077547;0.7947234412922453
+LUKE;I'm on my way...;neu;0.5206489675516226;0.4793510324483774
+LUKE;I'm on it.;neu;0.5;0.5
+LUKE;My aim is negative. I don't see anything.;neu;0.5942473814386343;0.4057526185613657
+LUKE;"Hold on, Biggs, I'm coming in.";neu;0.38235294117647034;0.6176470588235297
+LUKE;Got him!;neu;0.44276429483807933;0.5572357051619207
+LUKE;"I got hit, but not bad.";neg;0.24411859233647804;0.755881407663522
+LUKE;"Artoo, see what you can do with it. Wait back there.";neu;0.3948491123300057;0.6051508876699943
+LUKE;I can't shake him!;neu;0.41047297297297347;0.5895270270270265
+LUKE;Damn! Shut up where you are?;neu;0.4017463263403567;0.5982536736596433
+LUKE;"Thanks, Wedge.";pos;0.8176229508196725;0.1823770491803275
+LUKE;No sign of any... wait!;neu;0.3051439739680329;0.6948560260319672
+LUKE;Arriving at point three and five.;neu;0.6843291162813915;0.3156708837186085
+LUKE;"Red Leader, we're right above you. Turn to aim...";pos;0.7600271536065345;0.2399728463934655
+LUKE;... oh-five. we've got it covered for you.;neu;0.41781417019996864;0.5821858298000313
+LUKE;"Biggs, Wedge, let's close. Let's go in. Let's go full throttle.";neg;0.22790049467173398;0.772099505328266
+LUKE;It will be just like Beggars Canyon at home.;neu;0.37388518074601074;0.6261148192539893
+LUKE;Caution! Increase your speed to full throttle!;neu;0.43362738050200356;0.5663726194979964
+LUKE;You worry about these fighters! I worry about the tower!;neu;0.4763286440954203;0.5236713559045797
+LUKE;"Artoo...yes, that stabilizer is loose again! See if you can't lock it!";neu;0.6977374470563329;0.3022625529436671
+LUKE;"Step back, Wedge.";pos;0.8126475938218026;0.18735240617819737
+LUKE;You can't do any more good back there!;neu;0.48154321699316405;0.518456783006836
+LUKE;"Artoo, try to power up!";neu;0.6171714579055441;0.38282854209445594
+LUKE;Nothing. I'm fine.;neu;0.4726282654316519;0.5273717345683482
+LUKE;I lost Artoo!;neu;0.5051724137931033;0.4948275862068967
+LUKE;I knew you'd be back! I knew it!;neu;0.4320056269670473;0.5679943730329526
+LUKE;Oh no!;neu;0.5;0.5
+LUKE;He'll be fine.;neu;0.5729166666666666;0.42708333333333337
+HAN;Han Solo. I'm the captain of the Millennium Falcon. Chewie here tells me you're looking for a ticket to the Alderaan system.;pos;0.9906974287129235;0.009302571287076455
+HAN;Fast ship? Have you never heard of the Millennium Falcon?;pos;0.8688034632325048;0.1311965367674952
+HAN;It's the ship that made the Kessel run in less than twelve parsecs!;neu;0.46407704116491644;0.5359229588350836
+HAN;"I outrun the Imperial ships, not the local cruisers, mind you. I'm talking about the big Corellian ships now. She's fast enough for you, old man. What's the payload?";neu;0.6696103533584183;0.33038964664158166
+HAN;What is it? Some kind of local problem?;neu;0.44601505660471374;0.5539849433952863
+HAN;"Well, that's the real trick, isn't it? And it'll cost you something extra. Ten thousand in advance.";neu;0.3225623481983632;0.6774376518016367
+HAN;"But who will pilot, boy! You?";neu;0.5029964832264738;0.49700351677352617
+HAN;"Seventeen, huh!";neu;0.31528662420382203;0.684713375796178
+HAN;Okay. You've got a ship. We'll leave as soon as you're ready. Dock 94.;neu;0.5421585360100238;0.45784146398997616
+HAN;Looks like someone is starting to take an interest in your work.;neu;0.2847146256745232;0.7152853743254768
+HAN;Seventeen thousand! These guys must be really desperate. This might really save my neck. Go back to the ship and prepare it.;neu;0.4962936783598432;0.5037063216401567
+HAN;"Yes, Greedo. I was actually going to see your boss. Tell Jabba I have his money.";pos;0.9147124539414717;0.08528754605852829
+HAN;"Yes, but this time I got the money.";neu;0.3141110515303686;0.6858889484696313
+HAN;I don't have it with me. Tell Jabba...;pos;0.9501217117037974;0.049878288296202555
+HAN;Even I get approached sometimes. Do you think I had a choice?;pos;0.7688633615219111;0.23113663847808885
+HAN;Over my dead body.;neu;0.4790843004540747;0.5209156995459253
+HAN;"Yes, I bet so.";neu;0.6019993222636391;0.39800067773636094
+HAN;Sorry for the mess.;neg;0.12515162356897586;0.8748483764310242
+HAN;"I've been waiting for you, Jabba.";pos;0.9278807248156513;0.07211927518434869
+HAN;I'm not the type to run.;neu;0.48673852302416887;0.5132614769758311
+HAN;You sent Greedo to blow me up.;neu;0.39848260271286745;0.6015173972871326
+HAN;"I think he thought so. Next time don't send one of those idiots. If you have something to say to me, come to see me yourself.";neg;0.2037622636093005;0.7962377363906995
+HAN;"You know, even I get boarded sometimes, Jabba. I didn't have a choice, but I have a letter now and I can pay you back, plus some more. I just need some more time.";pos;0.9666464839679636;0.0333535160320364
+HAN;"Jabba, I'll pay you because it's a pleasure.";pos;0.9545504074813502;0.04544959251864977
+HAN;"She's going to do point five beyond the speed of light. She might not look like much, but she's where it matters, boy. I've added some special modifications myself.";neu;0.48123883694501296;0.5187611630549871
+HAN;"We're in a bit of a hurry, so if you hurry aboard, we'll get out of here.";neu;0.5529767803518008;0.44702321964819924
+HAN;"Chewie, get us out of here!";neu;0.42347607622223205;0.576523923777768
+HAN;It looks like an imperial cruiser. Our passengers must be hotter than I thought. Try to hold them. Tilt the deflector shield while I do the calculations for the jump to light speed.;neg;0.06868675414632412;0.9313132458536759
+HAN;Stay tuned! There are two more coming. they will try to cut us.;neu;0.42365923312369913;0.5763407668763009
+HAN;"Watch your mouth, kid, or you'll find yourself floating home. We'll be safe enough when we make the jump into hyperspace. Besides, I know a few tricks. We'll miss them!";neu;0.7270802739859252;0.27291972601407477
+HAN;This is where the fun begins!;neu;0.6447457809172698;0.35525421908273025
+HAN;It will take a few moments to get the coordinates from the navigation computer.;neu;0.3606420239625206;0.6393579760374795
+HAN;"Traveling through hyperspace isn't like clearing crops, kid! Without accurate calculations, we could fly straight through a star or jump too close to a supernova and that would end your trip pretty quickly, wouldn't it? ?";neu;0.2836654285623986;0.7163345714376014
+HAN;"We're losing our deflector shield. Go strap yourself in, I'll jump to the speed of light.";neu;0.5105424478201503;0.48945755217984965
+HAN;"Well, you can forget about your problems with those imperial slugs. I told you I'd get over them.";pos;0.8720113576870796;0.1279886423129204
+HAN;Not everyone thanks me at once.;neu;0.6634047231736727;0.3365952768263273
+HAN;"Anyway, we should be in Alderaan about oh-two hundred hours.";neu;0.4806541112493469;0.519345888750653
+HAN;Let him have it. It's not wise to upset a Wookiee.;neu;0.5770918658187518;0.4229081341812482
+HAN;That's because droids don't take people's arms off when they lose. Wookiees are known to do that.;pos;0.8276145246407804;0.17238547535921955
+HAN;"Hypocritical religions and ancient weapons are no match for a good blaster by your side, boy.";pos;0.7928189170102178;0.20718108298978222
+HAN;"Boy, I've flown from one side of this galaxy to the other. I've seen a lot of strange things, but I've never seen anything that makes me believe that there is an all-powerful force controlling everything. There is no energy field. mystic that controls my destiny.";pos;0.9990214943154923;0.0009785056845077467
+HAN;"It's all a bunch of simple, pointless tricks.";neg;0.22986013188355825;0.7701398681164418
+HAN;I call it luck.;neu;0.428745075027244;0.571254924972756
+HAN;"Look, doing well against remote controls is one thing. Doing well against the living? That's another thing.";neu;0.5572033878959727;0.4427966121040273
+HAN;Looks like we're coming to Alderaan.;neu;0.6405090934439703;0.35949090655602967
+HAN;"Wait, Chewie, here we go. Turn off the sublight engines.";neu;0.2954635740101712;0.7045364259898288
+HAN;"What...? Ah, we went out of hyperspace into a meteor shower. Some sort of asteroid collision. It's not on any of the charts.";neg;0.16229547290309843;0.8377045270969016
+HAN;"Our position is correct, except... no, Alderaan!";pos;0.8134560068252925;0.1865439931747075
+HAN;"That's what I'm trying to tell you, kid. It's not there. It was totally blown up.";neu;0.2743471870026346;0.7256528129973654
+HAN;The entire Starfleet could not destroy the entire planet. It would take a thousand ships with more firepower than I...;pos;0.7635418609794692;0.2364581390205308
+HAN;There's another ship coming.;neu;0.5118392497371623;0.4881607502628377
+HAN;There is no base around here. Where did it come from?;neu;0.4540275987497797;0.5459724012502203
+HAN;Not if I can help it. Chewie... block your transmissions.;pos;0.8492204061811666;0.15077959381883344
+HAN;Not for long...;neu;0.5071700968107845;0.4928299031892155
+HAN;"Well, he won't be around long enough to tell anyone about us.";neu;0.5021764672024298;0.4978235327975702
+HAN;I think I can catch him before he gets there... he's almost in range.;neu;0.509441246211327;0.490558753788673
+HAN;It's too big to be a space station.;neu;0.5055768548803087;0.4944231451196913
+HAN;"Yes, I think you're right. Reverse complete! Chewie, block auxiliary energy.";neu;0.6607089506673952;0.3392910493326048
+HAN;We're trapped in a tractor beam! It's pulling us!;neu;0.3908145580589254;0.6091854419410746
+HAN;"There's nothing I can do about it, kid. I'm in full power. I'll have to hang up. But they won't catch me without a fight!";neu;0.38676977147100444;0.6132302285289956
+HAN;"I use them for smuggling. I never thought I'd be smuggling myself in them. That's ridiculous. Even if I could take off, I'd never get past the tractor beam.";neu;0.33790362584280503;0.662096374157195
+HAN;Damn idiot. I knew you were going to say that!;neg;0.12741780579979475;0.8725821942002052
+HAN;"Hey, could you give us a hand with this?";neu;0.2857010097324499;0.7142989902675501
+HAN;Bring us in! I prefer a straight fight to all this mess.;neu;0.3115307159457706;0.6884692840542295
+HAN;Whatever you say. I've done more than I bargained for on this trip.;neu;0.2505133816305977;0.7494866183694022
+HAN;"Dude, you said that, Chewie.";neu;0.45775533179980804;0.542244668200192
+HAN;Where did you dig up that old fossil?;neu;0.3781968709224029;0.6218031290775972
+HAN;"Yes, great for getting us into trouble.";neu;0.4917982186995005;0.5082017813004995
+HAN;"Well, anything would be better than waiting for them to pick us up...";neu;0.33067495199902075;0.6693250480009793
+HAN;Princess?;neu;0.5232558139534884;0.4767441860465116
+HAN;Princess? What's going on?;neu;0.4849805821118578;0.5150194178881422
+HAN;What are you talking about?;neu;0.46055642532266594;0.5394435746773341
+HAN;"Now look, don't come up with any funny ideas. The old man wants us to wait right here.";neu;0.29526628952684364;0.7047337104731564
+HAN;I'm not going anywhere.;neg;0.22229545589962327;0.7777045441003767
+HAN;Marching to the detention area is not what I had in mind.;neu;0.6817783386175609;0.3182216613824391
+HAN;Better her than me...;neu;0.46373825972304167;0.5362617402769583
+HAN;Rich?;neu;0.6146496815286625;0.3853503184713375
+HAN;What?;neu;0.49250000000000005;0.5075
+HAN;"I don't know, I can imagine a lot!";neu;0.4705756798389133;0.5294243201610866
+HAN;I better!;neu;0.452485380116959;0.547514619883041
+HAN;"All right, kid. But you better be right about this!";neu;0.5064276462132752;0.4935723537867248
+HAN;What's your plan?;neu;0.4940105926620404;0.5059894073379596
+HAN;"Don't worry, Chewie. I think I know what he has in mind.";neu;0.5371972214622647;0.4628027785377353
+HAN;And I hope they don't have blasters.;neu;0.46031177644433013;0.5396882235556699
+HAN;That won't work.;neu;0.5165282165640177;0.4834717834359823
+HAN;I said that before!;neu;0.4938764199126901;0.5061235800873098
+HAN;Watch out! He's loose!;neu;0.6665445473708875;0.33345545262911247
+HAN;Go get him!;neu;0.5208371068590018;0.47916289314099825
+HAN;We have to find out which cell your princess is in. Here it is... celto twenty-one and eight-seven. You will get it. I will keep them here.;neu;0.5649099958193652;0.4350900041806348
+HAN;Everything is under control. Normal situation.;pos;0.7620364563570462;0.2379635436429538
+HAN;"Uh... had a little weapon malfunction. But, uh, everything's perfectly fine now. We're fine. We're all fine here, now, thanks. How are you?";pos;0.7654085035368856;0.2345914964631144
+HAN;"Uh, uh, negative, negative. We've had a reactor leak here just now. Give us a few minutes to block it. Big leak...very dangerous.";neu;0.4712479838244019;0.5287520161755981
+HAN;Boring conversation anyway. Luke! We'll have company!;neu;0.2606271070047024;0.7393728929952976
+HAN;Chewie!;neu;0.5;0.5
+HAN;Stay behind me! Stay behind me!;neu;0.5821059919436051;0.41789400805639487
+HAN;You can't go out like that.;neu;0.459980601891564;0.540019398108436
+HAN;"Perhaps you want it back in your cell, Your Highness.";neu;0.33400022515056976;0.6659997748494302
+HAN;I can't hold them forever! What now?;neu;0.5750299987714991;0.4249700012285009
+HAN;"He's the brain, honey.";neu;0.5248309795732011;0.47516902042679887
+HAN;What the hell are you doing?;neu;0.4209097552443619;0.5790902447556381
+HAN;Get in there you big furry idiot! I don't care what you smell! Get in there and don't worry about it.;neg;0.02574938038802757;0.9742506196119725
+HAN;Wonderful girl! Either I'm going to kill her or I'm starting to like her. Get in there!;neu;0.47392299686553335;0.5260770031344666
+HAN;Ah! The garbage chute was a really wonderful idea. What an amazing smell you discovered! Let's get out of here! Get out of there...;neu;0.6556380141315716;0.34436198586842837
+HAN;"Absolutely, Your Honor. Look, I had everything under control until you brought us here. You know, it won't be long before they find out what happened to us.";neu;0.716873222784738;0.283126777215262
+HAN;It's worse.;neu;0.3133971291866029;0.6866028708133971
+HAN;That's your imagination.;neu;0.6191378446775977;0.3808621553224023
+HAN;What?;neu;0.49250000000000005;0.5075
+HAN;Luke! Luke! Luke!;neu;0.5322580645161291;0.4677419354838709
+HAN;Where?;neu;0.5091201716738196;0.4908798283261804
+HAN;Luke! Luke!;neu;0.5322580645161291;0.4677419354838709
+HAN;I have a bad feeling about this.;neu;0.36135373239331275;0.6386462676066873
+HAN;Get to the top!;neu;0.5104813916166598;0.48951860838334016
+HAN;One thing's for sure. We're all going to get a lot thinner! Stay on top of it!;neu;0.488732573612167;0.511267426387833
+HAN;Three-two-six-eight-two-seven.;neu;0.5;0.5
+HAN;"If we can avoid more female advice, we should be able to get out of here.";neu;0.2696469014488301;0.7303530985511699
+HAN;Where are you going?;neu;0.4719550573177398;0.5280449426822602
+HAN;"Come here, you big coward!";neu;0.41256720312444567;0.5874327968755544
+HAN;Chewie! Come here!;neu;0.4532373571599681;0.5467626428400318
+HAN;"Look, Your Excellency, let's clarify something! I take orders from a person! Me!";pos;0.7600535934583662;0.2399464065416338
+HAN;No reward is worth that.;neu;0.5715470302865564;0.4284529697134436
+HAN;There she is.;neu;0.4752308449338698;0.5247691550661302
+HAN;Cool! Let's go!;neu;0.40344827586206905;0.596551724137931
+HAN;Go back to the ship!;neu;0.5411565479669164;0.45884345203308363
+HAN;Didn't we just leave this party?;neu;0.5176320594603316;0.48236794053966836
+HAN;What held you back?;neu;0.5783310006955693;0.4216689993044307
+HAN;Sounds good if we can do it. I just hope the old man got the tractor beam out of service.;neu;0.3468634904899901;0.6531365095100099
+HAN;Now is our chance! Go!;neu;0.5294559281787425;0.47054407182125746
+HAN;Let's go!;neu;0.45;0.55
+HAN;Fix the door! Boy!;neu;0.37590920436418074;0.6240907956358193
+HAN;"Hope the old man got that tractor beam out if it's working, or this will be a very short trip. Okay, get it right!";neu;0.5698154878596492;0.4301845121403508
+HAN;We're approaching the sentry ships. Hold them! Tilt the deflector shields while I load the main guns!;neg;0.06860720161148307;0.931392798388517
+HAN;"Come on buddy, we're not out of this yet!";neu;0.4896387826944186;0.5103612173055814
+HAN;"Are you in, kid? Okay, stay sharp!";neu;0.6550979254989766;0.3449020745010234
+HAN;"Don't worry, she'll handle it.";neu;0.4014017511154287;0.5985982488845714
+HAN;"Did you hear me, baby? Hold on!";neu;0.4206768975953526;0.5793231024046475
+HAN;Great boy! Don't be arrogant.;neu;0.7238643730820766;0.27613562691792337
+HAN;"Not bad rescue, huh? You know, sometimes I even surprise myself.";neg;0.15533355017787126;0.8446664498221288
+HAN;Easy...you call that easy?;neu;0.5895621948501822;0.41043780514981776
+HAN;"Not this ship, sister.";neu;0.6467304318314522;0.3532695681685478
+HAN;What is so important? What is he carrying?;neu;0.6432350114805407;0.35676498851945926
+HAN;"It's for me, sister! Look, I'm not in it for your revolution, and I'm not in it for you, princess. I hope to get paid well. I'm in it. for the money!";pos;0.8659406931195504;0.13405930688044965
+HAN;"I'm trying not to, kid!";neu;0.4824181875687425;0.5175818124312574
+HAN;"Still, she has a lot of spirit. I don't know, what do you think? Do you think a princess and a guy like me...";neu;0.6052382004273119;0.3947617995726881
+HAN;"That's right, yes! I have some old debts I have to pay off with these things. Even if I didn't, don't you think I'd be foolish enough to stick around, do you? with us? You're too good at a fight. I could use you.";neu;0.3317381456630595;0.6682618543369405
+HAN;"What's a bounty worth if you're not around to use it? Besides, attacking that battle station isn't my idea of ​​courage. It's more like suicide.";neu;0.41551411182711595;0.584485888172884
+HAN;Hey Luke...may the Force be with you!;neu;0.5559030668825744;0.4440969331174256
+HAN;What are you looking at? I know what I'm doing.;neu;0.4226895749447435;0.5773104250552565
+HAN;Yahoo!;neu;0.375;0.625
+HAN;"You're fine, boy.";neu;0.5959862548075825;0.4040137451924175
+HAN;Now let's blow this thing up and go home!;neu;0.3063744066229372;0.6936255933770628
+HAN;"Great photo, kid. That was one in a million.";neu;0.6058294557464856;0.3941705442535144
+HAN;Hey! Hey!;neu;0.35606060606060613;0.6439393939393938
+HAN;"Well, I wasn't going to let you take all the credit and take all the reward.";neu;0.5576806008952231;0.4423193991047769
+THREEEPIO;Did you hear that? They shut down the main reactor. We will be destroyed for sure. This is crazy!;neu;0.42416481362152236;0.5758351863784776
+THREEEPIO;We are doomed!;neu;0.6047903612593797;0.3952096387406203
+THREEEPIO;There will be no escape for the princess this time.;neu;0.6260669153257346;0.37393308467426545
+THREEEPIO;I should know better than to trust the logic of a medium-sized thermocapsular housing removal wizard...;pos;0.9169887929163675;0.08301120708363252
+THREEEPIO;"Artoo! Artoo-Detoo, where are you?";neu;0.5027215453231696;0.4972784546768304
+THREEEPIO;Finally! Where have you been?;neu;0.5038063092233384;0.49619369077666164
+THREEEPIO;They're heading this way. What are we going to do? We'll be sent to the Kessel spice mines or crushed who knows what!;neu;0.40655666211230745;0.5934433378876925
+THREEEPIO;"Hey, you are not allowed to enter there. It is restricted. You will be disabled for sure..";pos;0.9104133239298612;0.08958667607013882
+THREEEPIO;Secret mission? What plans? What are you talking about? I'm not going in there!;neu;0.3969175574947764;0.6030824425052236
+THREEEPIO;I'm going to regret this.;neu;0.5840739243793951;0.4159260756206049
+THREEEPIO;"That's funny, the damage doesn't look too bad from here.";neg;0.23248779737055308;0.767512202629447
+THREEEPIO;Are you sure these things are safe?;neu;0.6082170290643554;0.3917829709356446
+THREEEPIO;How did I get into this mess? I really don't know how. It feels like we're made to suffer. It's our destiny in life.;neu;0.6078496068873042;0.39215039311269584
+THREEEPIO;I have to rest before I collapse. My joints are almost frozen.;neu;0.41294260545633005;0.5870573945436699
+THREEEPIO;What a desolate place this is.;pos;0.8062524316415859;0.1937475683584141
+THREEEPIO;Where are you going?;neu;0.4719550573177398;0.5280449426822602
+THREEEPIO;"Well, I'm not going that way. It's too rocky. That's a lot easier.";neu;0.7076136427275243;0.29238635727247575
+THREEEPIO;What makes you think there are settlements there?;neu;0.4891438101949558;0.5108561898050442
+THREEEPIO;Don't be technical with me.;neu;0.5983641056429999;0.4016358943570001
+THREEEPIO;"What mission? What are you talking about? I've had enough of you! Go that way! You'll be out of order in a day, you myopic scrap pile!";neu;0.7324706434323203;0.26752935656767973
+THREEEPIO;"And don't let me catch you following me begging for help, because you won't.";neu;0.326869415929802;0.673130584070198
+THREEEPIO;No more adventures. I'm not going there.;neu;0.5790520625445712;0.4209479374554288
+THREEEPIO;"That flawed idiot. This is all his fault! He tricked me into going this way, but he won't do any better.";neg;0.24062770835144145;0.7593722916485586
+THREEEPIO;"Wait, what is this? A transport! I'm saved!";neu;0.3578698312956665;0.6421301687043335
+THREEEPIO;Here! Help! Please help!;neu;0.3395595770064502;0.6604404229935499
+THREEEPIO;Artoo-Detoo! It's you! It's you!;neu;0.49219810040705564;0.5078018995929443
+THREEEPIO;Wake up! Wake up!;neu;0.46551724137931033;0.5344827586206897
+THREEEPIO;We are doomed.;neu;0.6047903612593797;0.3952096387406203
+THREEEPIO;Do you think they will melt us?;neu;0.2841642686053089;0.715835731394691
+THREEEPIO;Don't shoot! Don't shoot! Will this ever end?;neu;0.5537254725256168;0.44627452747438323
+THREEEPIO;Sir - not in an environment like this - that's why I've also been programmed for over thirty secondary roles that...;neu;0.4701998940419116;0.5298001059580884
+THREEEPIO;Steamers! Sir - My first job was forGram binary load elevators... very similar to their vaporizers. You could say...;neu;0.28475505858190947;0.7152449414180906
+THREEEPIO;"Of course I can, sir. It's like a second language for me... I'm so fluent in bocce...";neu;0.3920351844908566;0.6079648155091434
+THREEEPIO;"Shut up, sir.";neu;0.6250000000000006;0.37499999999999944
+THREEEPIO;"Excuse me sir, but this R2 unit is in excellent condition. A real bargain.";neu;0.650209722857181;0.34979027714281896
+THREEEPIO;"Uh, I'm sure you'll be very pleased with that, sir. He really is in first class condition. I've worked with him before. Here he comes.";pos;0.937882698839759;0.062117301160240945
+THREEEPIO;"Now, don't forget that! Why should I risk my neck for you is way beyond my ability!";neu;0.631335362015827;0.36866463798417304
+THREEEPIO;Thanks to the manufacturer! This oil bath is going to be so good. I have such a bad case of dust contamination I can barely move!;neg;0.1488743933800907;0.8511256066199093
+THREEEPIO;Is there anything I can do to help?;neu;0.4800931549579972;0.5199068450420028
+THREEEPIO;"I don't think so, sir. I'm just a droid and I don't know much about these things. Not on this planet, anyway. In fact, I'm not even sure which planet I'm on.";pos;0.7910335518757671;0.20896644812423293
+THREEEPIO;"I see, sir.";neu;0.703629032258065;0.29637096774193505
+THREEEPIO;"I see, Mr. Luke.";neu;0.5688531067865258;0.4311468932134742
+THREEEPIO;"And I am See-Threepio, human-cyborg relations, and this is my counterpart, Artoo-Detoo.";neu;0.4108044844154242;0.5891955155845758
+THREEEPIO;"With all we've been through, I'm sometimes surprised we're on as good a condition as we are, with the Rebellion and all.";pos;0.8622366969166241;0.13776330308337592
+THREEEPIO;" ""That's how we came to your service, if you know what I mean, sir.""";neu;0.5935275738103226;0.4064724261896774
+THREEEPIO;"Several, I think. Not much to tell really. I'm not much more than an interpreter, and I'm not very good at telling stories. Well, not making them interesting, anyway. .";neu;0.4733054109057494;0.5266945890942506
+THREEEPIO;What is what?!? He asked you a question... What is this?;neu;0.4652159106981307;0.5347840893018694
+THREEEPIO;"Oh, he says it's nothing, sir. Just a malfunction. Old data. Don't mind it.";neu;0.5150731712927047;0.4849268287072953
+THREEEPIO;"I guess I'm not sure, sir.";neu;0.5289572765489002;0.47104272345109977
+THREEEPIO;"I think she was a passenger on our last voyage. A person of some importance, sir - I believe. Our captain was connected with...";pos;0.9275906051542817;0.07240939484571829
+THREEEPIO;"Behave yourself, Artoo. You'll get us in trouble. It's okay, you can trust him. He's our new master.";neu;0.4141220288734393;0.5858779711265607
+THREEEPIO;"He says it's owned by Obi-Wan Kenobi, a resident around here. And it's a private message for him. Frankly, sir, I don't know what he's talking about. Our last master was Captain Antilles, but with what we've been through, this little R2 unit has become a little eccentric.";pos;0.968923698293005;0.031076301706995046
+THREEEPIO;"Sorry sir, but do you know what he's talking about?";neu;0.46019982218185457;0.5398001778181454
+THREEEPIO;He says that the restriction screw caused a short circuit in his recording system. He suggests that if you remove the screw he can play the entire recording.;pos;0.8779404292816462;0.12205957071835383
+THREEEPIO;eI'm playing. What are you carrying inside your rusty guts!;neu;0.44271919882739497;0.557280801172605
+THREEEPIO;"I'm sorry sir, but he seems to have picked up a slight vibration.";neu;0.6086020716354472;0.3913979283645528
+THREEEPIO;Just reconsider throwing this message at him.;neg;0.17027826876707378;0.8297217312329263
+THREEEPIO;"No, I don't think he likes you at all.";neu;0.45023934359821566;0.5497606564017843
+THREEEPIO;"No, I don't like you either.";neu;0.42022659247763033;0.5797734075223697
+THREEEPIO;"It wasn't my fault, sir. Please don't disable me. I told him not to go, but he's faulty, faulty; he kept babbling about his mission.";neg;0.04171453960017701;0.958285460399823
+THREEEPIO;That R2 unit has always been a problem. These astrodroids are getting out of control. Even I can't understand their logic sometimes.;neu;0.4957569032592758;0.5042430967407242
+THREEEPIO;"Forgive me, sir, but couldn't we go after him?";neu;0.697677912012717;0.302322087987283
+THREEEPIO;"Oh, he excels at it, sir.";pos;0.8744019138755975;0.12559808612440249
+THREEEPIO;"Sir, it would help if you told him it was my fault.";neu;0.7138080980077508;0.2861919019922492
+THREEEPIO;"Disable! Well, on the other hand, if you hadn't removed the retaining screw from it...";neg;0.11968465230314931;0.8803153476968507
+THREEEPIO;Master Luke here is its rightful owner. Let's not have this Obi-Wan Kenobi nonsense anymore... and don't talk to me about your mission either. You're lucky he doesn't blow you up in a million pieces right here.;pos;0.8786053556904444;0.1213946443095556
+THREEEPIO;"If you don't mind my saying, sir, I think I should disable the little fugitive until I get him back. Go to your office.";neu;0.2921833716142194;0.7078166283857805
+THREEEPIO;"Oh my... sir, he says there are several creatures approaching from the southeast.";neu;0.4649033446347613;0.5350966553652388
+THREEEPIO;Where am I? I must have taken a bad step...;neu;0.4460826855109804;0.5539173144890196
+THREEEPIO;"I don't think I'll make it. Go on, Master Luke. There's no point in taking any chances for my sake. I'm finished.";neu;0.3643884399939495;0.6356115600060506
+THREEEPIO;"Sir, if you won't need me, I'll close for a while.";neu;0.6825870275296029;0.3174129724703971
+THREEEPIO;I can't stand these Jawas. Disgusting creatures.;neu;0.7329055730186199;0.2670944269813801
+THREEEPIO;"Come on, Artoo.";neu;0.496661101836394;0.503338898163606
+THREEEPIO;I fully agree with the Lord.;pos;0.7665940945027799;0.23340590549722007
+THREEEPIO;I don't like the look of this.;neu;0.4503419184407788;0.5496580815592211
+THREEEPIO;"Lock the door, Artoo.";neu;0.510249897501025;0.489750102498975
+THREEEPIO;"I'd rather have gone with Master Luke than stay here with you. I don't know what all this trouble is about, but I'm sure it must be your fault.";neu;0.5114127975162974;0.4885872024837026
+THREEEPIO;Watch your language!;neu;0.6760733785572467;0.3239266214427533
+THREEEPIO;"Hello, sir.";neu;0.5657894736842106;0.4342105263157894
+THREEEPIO;Oh my. I'd forgotten how much I hate space travel.;neu;0.5317515140296946;0.46824848597030544
+THREEEPIO;"Now be careful, Artoo.";neu;0.7135328512078783;0.28646714879212165
+THREEEPIO;He made a fair play. Yelling about it won't help you.;neg;0.20815217447978063;0.7918478255202194
+THREEEPIO;"But sir, no one bothers to disturb a droid.";pos;0.9724776825819441;0.027522317418055886
+THREEEPIO;"I see, sir. I suggest a new strategy, Artoo. Let the Wookiee win.";pos;0.7718512598919236;0.2281487401080764
+THREEEPIO;"We found the computer socket, sir.";neu;0.7336936786724724;0.26630632132752763
+THREEEPIO;He says he has found the main control of the energy beam that is holding the ship here. He will try to make the precise location appear on the monitor.;pos;0.9590764702060696;0.040923529793930435
+THREEEPIO;The tractor beam is coupled to the main reactor at seven locations. A loss of power at one of the terminals will allow the ship to exit.;pos;0.8966210291539741;0.10337897084602587
+THREEEPIO;"I don't think I'm sure, sir. It says \";neu;0.6553333535990999;0.34466664640090006
+THREEEPIO;Princess Leia.;neu;0.7405063291139237;0.25949367088607633
+THREEEPIO;Level five. Detention block AA-twenty-three. I'm afraid she's scheduled to be fired.;neu;0.453178793641922;0.546821206358078
+THREEEPIO;"Master Luke, sir! Forgive me for asking...but, ah...what are Artoo and I supposed to do if we are discovered here?";neu;0.6792266670949376;0.3207733329050624
+THREEEPIO;That's not very comforting.;pos;0.8626472552010679;0.1373527447989321
+THREEEPIO;"I said, all systems have been alerted to your presence, sir. Main entrance appears to be the only exit; all other information on your level is restricted.";pos;0.7930414033768323;0.20695859662316773
+THREEEPIO;Oh no!;neu;0.5;0.5
+THREEEPIO;"They're crazy! They're heading to the prison level. If you hurry, you can catch them.";neu;0.4806239001971584;0.5193760998028416
+THREEEPIO;Let's go!;neu;0.45;0.55
+THREEEPIO;"Ah! All this excitement has invaded my colleague's circuits here. If you don't mind, I'd like to take him in for maintenance.";pos;0.9421283778280527;0.0578716221719473
+THREEEPIO;They're not here! Something must have happened to them. See if they've been captured.;neu;0.660942195867806;0.339057804132194
+THREEEPIO;Fast!;neu;0.4626436781609196;0.5373563218390804
+THREEEPIO;Thank God they didn't find them! Where could they be?;neu;0.4652655532738532;0.5347344467261468
+THREEEPIO;Use comlink? Oh my! I forgot that and hung up!;neu;0.2893352651479404;0.7106647348520596
+THREEEPIO;"Are you there, sir?";neu;0.6490438782814077;0.35095612171859225
+THREEEPIO;We had some problems...;neu;0.43328146388674105;0.566718536113259
+THREEEPIO;No. Turn them all off! Hurry!;neu;0.5394794296458223;0.4605205703541777
+THREEEPIO;"Listen to them! They're dying, Artoo! Damn my metal body! I wasn't fast enough. It's all my fault! My poor master!";neu;0.3117495556408889;0.6882504443591111
+THREEEPIO;"At the moment. Uh, we're in the main hangar in front of the ship.";neu;0.5019774209753413;0.49802257902465874
+THREEEPIO;Where could they be?;neu;0.4628891256774252;0.5371108743225748
+THREEEPIO;"Come on, Artoo, we're going!";neu;0.465918004221919;0.534081995778081
+THREEEPIO;Oooh!;neg;0.16666666666666646;0.8333333333333335
+THREEEPIO;Help! I think I'm melting! This is all your fault.;neu;0.44246434884661545;0.5575356511533845
+THREEEPIO;"Hold on, Artoo, you have to go back.";neu;0.48732246835317483;0.5126775316468252
+THREEEPIO;"You wouldn't want my life to get boring, would you?";neu;0.2522689189023731;0.747731081097627
+THREEEPIO;"Hold on, Artoo!";neu;0.5;0.5
+THREEEPIO;"Oh my God! Artoo! Can you hear me? Say something! You can fix it, can't you?";neu;0.372690174916153;0.6273098250838469
+THREEEPIO;"You must fix it! Sir, if any of my circuits or gears help, I will gladly donate them.";pos;0.8012331574842574;0.19876684251574261
+BEN;Hello! Come here my little friend. Don't be afraid.;neu;0.4698199627099226;0.5301800372900773
+BEN;"Don't worry, he'll be fine.";neu;0.6006493506493507;0.39935064935064934
+BEN;"Rest son, you've had a busy day. You're lucky you're still in one piece.";neu;0.719742042614189;0.28025795738581105
+BEN;" ""The Jundland Wastes are not to be traversed lightly. Tell me, young Luke, what brings you here?""";neu;0.6411718812022079;0.3588281187977921
+BEN;Obi-Wan Kenobi... Obi-Wan? That's a name I haven't heard in a long time... a long time.;pos;0.8217229896667823;0.17827701033321774
+BEN;"Oh, he's not dead, no... not yet.";neu;0.5569649244503242;0.4430350755496758
+BEN;"Well, of course, of course I know him. He's me! I haven't used the name Obi-Wan since oh, before you were born.";neu;0.5614935485884763;0.43850645141152367
+BEN;I don't remember having a droid. Very interesting...;pos;0.8498688196712676;0.1501311803287324
+BEN;"I think we'd better get inside. The Sand People are easily scared, but they'll be back soon and in greater numbers.";pos;0.7775645553426418;0.2224354446573582
+BEN;Quick son...they're on the move.;neu;0.5105312959897513;0.48946870401024867
+BEN;That's what your uncle told you. He didn't hold on to your father's ideals. I thought he should have stayed here and not gotten involved.;pos;0.9736662094837463;0.02633379051625373
+BEN;"Yes, I was once a Jedi Knight just like your father.";pos;0.8802335483863324;0.11976645161366761
+BEN;"He was the best star pilot in the galaxy, and a cunning warrior. I understand that you also became a good pilot. And he was a good friend. Which reminds me...";pos;0.9643773020806006;0.035622697919399426
+BEN;"I have something here for you. Your father wanted you to have it when you were old enough, but your uncle wouldn't allow it. He feared you might follow old Obi-Wan on some damn idiot. Idealistic crusade like yours. father did.""";neu;0.5087016959850474;0.49129830401495256
+BEN;Your father's lightsaber. This is a Jedi Knight's weapon. Not as clumsy or random as a blaster.;pos;0.7538918686769661;0.24610813132303389
+BEN;"An elegant weapon for a more civilized age. For over a thousand generations the Jedi Knights were the guardians of peace and justice in the Old Republic. Before the dark times, before the Empire.",pos;0.5;0.5
+BEN;"A young Jedi named Darth Vader, who was my pupil until he became evil, helped the Empire hunt down and destroy the Jedi Knights. He betrayed and murdered his father. Now the Jedi are anything but extinct. Vader was seduced. by the dark side of the Force.",pos;0.999987447670494,0.012552329
+BEN;"Well, the Force is what gives the Jedi their power. It's an energy field created by all living things. It surrounds us and penetrates us. It unites the galaxy.";pos;0.9986802975421509;0.0013197024578490701
+BEN;"Now, let's see if we can't figure out what you are, my little friend. And where you come from.";neu;0.4159807008348895;0.5840192991651105
+BEN;Looks like I found it.;neu;0.39264621680601053;0.6073537831939895
+BEN;You must learn the ways of the Force if you want to come with me to Alderaan.;pos;0.8961719860067102;0.10382801399328978
+BEN;"I need your help, Luke. I'm getting too old for this kind of thing. She needs your help.";neu;0.506309316865667;0.49369068313433295
+BEN;It's your uncle talking.;neu;0.6980761693022417;0.3019238306977583
+BEN;"Learn about the Force, Luke.";neu;0.6979552492173045;0.30204475078269555
+BEN;"You must do what you think is right, of course.";neu;0.5130738212562646;0.48692617874373545
+BEN;They didn't. But we must think so. These tracks are side by side. Sand People always walk in single file to hide their numbers.;neu;0.6042899197906678;0.3957100802093322
+BEN;"And those blast points, too accurate for the Sand People. Only Imperial stormtroopers are that accurate.";pos;0.7935121398126168;0.2064878601873832
+BEN;"Wait, Luke! It's too dangerous.";neu;0.3986899034991358;0.6013100965008642
+BEN;"There's nothing you could have done, Luke, if you had been there. You would have been killed too, and the droids would now be in the Empire's hands.";pos;0.7695551956215991;0.23044480437840087
+BEN;Mos Eisley's Spaceport. You will never find a more miserable hive of scum and villainy. We must be cautious.;pos;0.9998426019955226;0.00015739800447744923
+BEN;They're for sale if you want them.;pos;0.7561618219733667;0.24383817802663332
+BEN;You don't need to see his ID.;neu;0.5073827425185734;0.4926172574814266
+BEN;looking for.;neu;0.4832668430803218;0.5167331569196782
+BEN;He can take care of his business.;neu;0.5140481980537858;0.48595180194621423
+BEN;Go ahead.;neu;0.5;0.5
+BEN;The Force can have a strong influence on the weak-minded. You will find it a powerful ally.;pos;0.8987985709875033;0.10120142901249674
+BEN;"Well, most of the best freighter pilots can be found here. Just be careful. This place can be a little rough.";pos;0.9592068845098388;0.04079311549016118
+BEN;"This little one is not worth the effort. Come, let me buy you something...";neu;0.598449552654994;0.401550447345006
+BEN;This is Chewbacca. He is immediate on a ship that can meet our needs.;pos;0.9616227714621445;0.03837722853785552
+BEN;Yes indeed. If it's a fast ship.;neu;0.4748696698302368;0.5251303301697632
+BEN;Should have?;neu;0.4091922005571031;0.5908077994428969
+BEN;"Passengers only. Me, the boy, two droids, and no questions.";pos;0.804688860992674;0.195311139007326
+BEN;Let's just say we'd like to avoid any imperial involvement.;neu;0.6865819278182481;0.3134180721817519
+BEN;"We don't have much with us. But we can pay you two thousand now, fifteen more when we get to Alderaan.";neu;0.6421956621767672;0.35780433782323284
+BEN;Ninety-four.;neu;0.5;0.5
+BEN;You'll have to sell your speeder.;neg;0.21980236152930235;0.7801976384706977
+BEN;It will be enough.;neu;0.5086333030434984;0.4913666969565016
+BEN;"If the ship is as fast as it is boasting, we should do fine.";neu;0.7426664197439264;0.25733358025607356
+BEN;How long before you can make the leap to light speed?;neu;0.4684785832956255;0.5315214167043745
+BEN;I felt a great disturbance in the Force... as if millions of voices suddenly screamed in terror and were suddenly silenced. I fear something terrible has happened.;pos;0.9011319507064917;0.09886804929350834
+BEN;You'd better get on with your exercises.;neu;0.332381493760786;0.6676185062392139
+BEN;"Remember, a Jedi can feel the Force flowing through him.";pos;0.9130255714745773;0.0869744285254227
+BEN;Partially. But it also obeys your commands.;neu;0.35820161505534737;0.6417983849446527
+BEN;"I suggest you try again, Luke.";neu;0.5626753765291961;0.4373246234708039
+BEN;"This time, let go of your conscious self and act on instinct.";neg;0.2377502936587494;0.7622497063412506
+BEN;Your eyes can deceive you. Don't trust them.;neu;0.49104029812312167;0.5089597018768783
+BEN;Stand out with your feelings.;neu;0.590424042056893;0.40957595794310697
+BEN;"You see, you can do this.";neu;0.5147384565327853;0.48526154346721473
+BEN;"In my experience, luck doesn't exist.";neu;0.5627953624527942;0.43720463754720584
+BEN;That's good. You've taken your first step into a bigger world.;neu;0.691452519109937;0.308547480890063
+BEN;Destroyed... by the Empire!;neu;0.7300699945033822;0.26993000549661783
+BEN;It's an Imperial fighter.;neu;0.7025723472668811;0.2974276527331189
+BEN;No. It's a short-range fighter.;neu;0.38333333333333336;0.6166666666666667
+BEN;You'd better let him go. It's too out of reach.;neu;0.4890108127414547;0.5109891872585453
+BEN;A fighter this size couldn't go that deep into space alone.;neu;0.41583045462515816;0.5841695453748419
+BEN;That's not the moon! It's a space station.;neu;0.5789202255348371;0.42107977446516287
+BEN;Turn the ship over!;neu;0.5794617371286443;0.42053826287135565
+BEN;You can't win. But there are alternatives to fight.;neu;0.5591143748268078;0.4408856251731922
+BEN;Leave it to me!;neu;0.5725;0.4275
+BEN;Who is the more foolish... the fool or the fool who follows him?;neu;0.7344849940443504;0.2655150059556496
+BEN;Plug it in. It should be able to interpret the entire Imperial computer network.;pos;0.9711190951333918;0.028880904866608215
+BEN;I don't think you boys can help. I must go alone.;neu;0.49292725993164005;0.5070727400683599
+BEN;"Be patient, Luke. Stay and take care of the droids.";pos;0.8430952518362422;0.15690474816375777
+BEN;They must be delivered safely or other star systems will suffer the same fate as Alderaan. Your fate is on a different path than mine. The Force will be with you...always!;pos;0.9989712122367317;0.001028787763268313
+BEN;"Just a master of evil, Darth.";pos;0.8083031945123891;0.19169680548761092
+BEN;"You can't win, Darth. If you take me down, I'll become more powerful than you can imagine.";pos;0.9120697198447417;0.08793028015525828
+BEN;"Run, Luke! Run!";neu;0.5078467153284669;0.4921532846715331
+BEN;"Luke, the Force will be with you.";neu;0.6582018746706593;0.34179812532934073
+BEN;"Use the Force, Luke.";neu;0.6872903464388697;0.31270965356113034
+BEN;"Let go, Luke.";neu;0.48214285714285715;0.5178571428571428
+BEN;"Luke, trust me.";neu;0.4613939899833051;0.538606010016695
+BEN;"Remember, the Force will be with you...always.";neu;0.7061799617819549;0.29382003821804514
+READ;"Lord Vader, I should have known. Only you could be so bold. The Imperial Senate won't stand still for this, when they hear you attacked a diplomat...";pos;0.9997075884126485;0.0002924115873514932
+READ;I don't know what you're talking about. I'm a member of the Imperial Senate on a diplomatic mission in Alderaan...;pos;0.9945559520489761;0.005444047951023934
+READ;"Help me, Obi-Wan Kenobi. You are my only hope.";pos;0.8469498581483079;0.15305014185169208
+READ;"Help me, Obi-Wan Kenobi. You are my only hope. Help me, Obi-Wan Kenobi. You are my only hope.";pos;0.8469498581483079;0.15305014185169208
+READ;"Help me, Obi-Wan Kenobi...";pos;0.8638968481375361;0.1361031518624639
+READ;"General Kenobi, years ago you served my father in the Clone Wars. Now he begs you to help him in his fight against the Empire. I regret not being able to present my father's request to you personally, but my ship has fallen under attack and I fear my mission to bring you to Alderaan has failed. I have placed information vital to the survival of the Rebellion into this R2 unit's memory systems. My father will know how to recover You must deliver this droid safely to him in Alderaan. This is our most desperate hour Help me, Obi-Wan Kenobi, you are my only hope.";pos;0.9999995245412622;0.01545873782528503
+READ;"Governor Tarkin, I should have expected to find you holding Vader's leash. I recognized your stench when I was brought aboard.";pos;0.8977576468680248;0.10224235313197516
+READ;TAKE RESPONSIBILITY YOURSELF!;neu;0.719540564117476;0.280459435882524
+READ;"The more you tighten your grip, Tarkin, the more star systems will slip through your fingers.";pos;0.998349248364036;0.001650751635963954
+READ;No! Alderaan is peaceful. We have no weapons. You can't...;pos;0.8884624978109419;0.11153750218905811
+READ;Dantooine.;neu;0.5;0.5
+READ;They are in Dantooine.;neu;0.4876987635739947;0.5123012364260053
+READ;What?;neu;0.49250000000000005;0.5075
+READ;No!;neu;0.5;0.5
+READ;Aren't you a little short for a stormtrooper?;neu;0.27388389059986556;0.7261161094001345
+READ;Who are you?;neu;0.4996006769771206;0.5003993230228794
+READ;Ben Kenobi is here! Where is he?;pos;0.8943936325236239;0.10560636747637608
+READ;Looks like you managed to cut our only escape route.;neu;0.5094722726729016;0.4905277273270984
+READ;"This is a ransom. When you came in here, didn't you have a plan to leave?";neu;0.42430639671543896;0.575693603284561
+READ;"Somebody has to save our skins. To the trash, smartass.";neg;0.05689489726736565;0.9431051027326344
+READ;Keep this thing! You'll kill us all.;neu;0.41210098753378294;0.5878990124662171
+READ;Could be worse...;neu;0.28604719439245474;0.7139528056075453
+READ;Luke!;neu;0.5322580645161291;0.4677419354838709
+READ;"Luke, Luke, take this.";neu;0.5516225269623829;0.4483774730376171
+READ;Grab it!;neu;0.41304347826086946;0.5869565217391306
+READ;What happened?;neu;0.5059252047804484;0.49407479521955155
+READ;Don't just stand there. Try to hold it with something.;neu;0.5233931573059462;0.47660684269405384
+READ;Can't;neu;0.5;0.5
+READ;I'm trying!;neu;0.45588235294117646;0.5441176470588236
+READ;"No, wait. They will listen!";neu;0.4874321720597363;0.5125678279402637
+READ;"Listen. I don't know who you are, or where you came from, but from now on, you do as I say. Okay?";neu;0.5535817286024762;0.44641827139752377
+READ;It's a wonder you're still alive. Will someone get this big walking rug out of my way?;neu;0.5707645930280851;0.42923540697191487
+READ;Did you come on that thing? You're braver than I thought.;neu;0.3860092129321286;0.6139907870678714
+READ;He certainly has courage.;pos;0.8381022969908495;0.16189770300915052
+READ;There is no lock!;neu;0.5436571236671982;0.4563428763328018
+READ;"Quick, we have to cross. Find the control that extends the bridge.";neu;0.7008907635361544;0.2991092364638456
+READ;They're coming!;neu;0.5030359782316579;0.4969640217683421
+READ;Here they come!;neu;0.4396887380077688;0.5603112619922312
+READ;For luck!;neu;0.4102062062062062;0.5897937937937938
+READ;Meet some old friends.;neu;0.6482087608469091;0.35179123915309085
+READ;"Come on! Luke, it's too late!";neu;0.4779672831131025;0.5220327168868975
+READ;There was nothing you could have done.;neu;0.36796568929311496;0.6320343107068851
+READ;Here they come!;neu;0.4396887380077688;0.5603112619922312
+READ;We lost the side controls.;neu;0.535462553206928;0.46453744679307196
+READ;There are still two more out there!;neu;0.5193372837181415;0.4806627162818585
+READ;We did it!;neu;0.4650943396226415;0.5349056603773585
+READ;"That doesn't seem too difficult. Besides, they let us go. It's the only explanation for the ease of our escape.";neu;0.7042480894433658;0.2957519105566342
+READ;They're tracking us!;neu;0.3734486819458285;0.6265513180541715
+READ;At least the information in Artoo is still intact.;neu;0.7077282601911411;0.2922717398088589
+READ;"The technical readings from that battle station. I just hope that when the data is analyzed, a weakness can be found. It's not over yet!";pos;0.9881294539625329;0.011870546037467067
+READ;"You don't have to worry about your reward. If money is all you love, then this is what you'll get!";neu;0.47577991026505334;0.5242200897349467
+READ;Your friend is a mercenary. I wonder if he really cares about something...or someone.;neg;0.2011030923430214;0.7988969076569786
+READ;"We have no time for our sorrows, Commander. The battle station has certainly located us here. It is the only explanation for the ease of our escape. You must use this R2 unit's information to plan the attack. It is our only hope.";pos;0.8290022345035619;0.17099776549643808
+READ;What's wrong?;neu;0.44004674160161533;0.5599532583983846
+READ;He has to go his own way. No one can choose for him.;neu;0.6931358487762951;0.3068641512237049
+READ;Luke! Luke! Luke!;neu;0.5322580645161291;0.4677419354838709
+READ;"Hey, I knew you were more than money.",neg;0.23565506296385777;0.76434493703614;
